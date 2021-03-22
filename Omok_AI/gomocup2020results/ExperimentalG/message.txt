@@ -1,0 +1,441 @@
+(1) (2) (3) MESSAGE SlowRenju 5.1.4 is ready.
+9381ms
+(3-put two stones) (4) (5) MESSAGE White winrate = 56.1587%, So randomly plays 2 moves
+MESSAGE After these two moves, white winrate = 55.1939%, So engine plays these two moves
+9381ms
+(5-stay with its color) (6) MESSAGE Expected time=359274ms
+MESSAGE  1;(06,04)      -1 ----------        0
+MESSAGE  2;(06,04)      10 ----------        1
+MESSAGE  3;(06,04)       3 ----------        6
+MESSAGE  4;(08,05)       1 ----------       44
+MESSAGE  5;(08,05)       0 ----------      121
+MESSAGE  6;(06,04)       4 ----------      362
+MESSAGE  7;(06,04)       3 ----------      818
+MESSAGE  8;(08,05)       1 ----------     5108
+MESSAGE  9;(08,05)       0 ----------    12913
+MESSAGE 10;(08,05)       0 ----------    23350
+MESSAGE 11;(06,04)       2 ----------    94969
+MESSAGE 12;(06,04)       2 ----------   222605
+MESSAGE 13;(06,04)       0 ----------   769989
+MESSAGE Nodes=128197486, Time=769989ms, speed=166492, depth=12-24, Evaluation=0
+786347ms
+(7) MESSAGE movenum=7, winrate=47.6888%, draw value=55.9807%, visits = 2163643, timeTaken = 198.594
+1241221ms
+(8) MESSAGE Expected time=307476ms
+MESSAGE  1;(05,05)       1 ----------        0
+MESSAGE  2;(05,05)       0 ----------        1
+MESSAGE  3;(05,05)       0 ----------        1
+MESSAGE  4;(05,03)      -1 ----------        9
+MESSAGE  5;(05,03)      -1 ----------       18
+MESSAGE  6;(08,05)      -1 ----------      113
+MESSAGE  7;(08,05)      -1 ----------      338
+MESSAGE  8;(08,05)      -1 ----------      951
+MESSAGE  9;(05,05)       2 ----------     2821
+MESSAGE 10;(05,05)       1 ----------    12093
+MESSAGE 11;(08,05)      -1 ----------    83959
+MESSAGE 12;(05,05)       3 ----------   191670
+MESSAGE 13;(05,05)      -2 ----------   420063
+MESSAGE Nodes=71038614, Time=420063ms, speed=169114, depth=13-27, Evaluation=-2
+1215209ms
+(9) MESSAGE movenum=9, winrate=58.126%, draw value=57.1855%, visits = 2889195, timeTaken = 183.5
+1429194ms
+(10) MESSAGE Expected time=278886ms
+MESSAGE  1;(08,03)       0 ----------        0
+MESSAGE 12;(08,03)      -2 ----------    11180
+MESSAGE 13;(08,03)       2 ----------   194542
+MESSAGE Nodes=32158703, Time=194542ms, speed=165304, depth=13-28, Evaluation=2
+1412525ms
+(11) MESSAGE movenum=11, winrate=57.6127%, draw value=58.7002%, visits = 9009992, timeTaken = 170.187
+1602105ms
+(12) MESSAGE Expected time=265731ms
+MESSAGE  1;(10,04)       2 ----------        2
+MESSAGE 12;(10,04)     -12 ----------   125243
+MESSAGE 13;(10,04)     -24 ----------   224415
+MESSAGE Nodes=38155836, Time=224415ms, speed=170023, depth=13-31, Evaluation=-24
+1639982ms
+(13) MESSAGE movenum=13, winrate=64.5615%, draw value=53.611%, visits = 14858744, timeTaken = 158.265
+1762922ms
+(14) MESSAGE Expected time=250567ms
+MESSAGE  1;(11,02)     -24 ----------        0
+MESSAGE 12;(11,02)     -26 ----------     2137
+MESSAGE 13;(11,02)     -26 ----------   250568
+MESSAGE Nodes=41880872, Time=250568ms, speed=167143, depth=12-22, Evaluation=-26
+1893657ms
+(15) MESSAGE movenum=15, winrate=95.7644%, draw value=2.05028%, visits = 1881328, timeTaken = 147.469
+1919019ms
+(16) MESSAGE Expected time=233656ms
+MESSAGE  1;(09,04)     -15 ----------        0
+MESSAGE  2;(06,06)     -17 ----------        0
+MESSAGE  3;(09,04)     -12 ----------        2
+MESSAGE  4;(06,06)     -17 ----------        8
+MESSAGE  5;(09,04)     -11 ----------       41
+MESSAGE  6;(09,04)     -12 ----------       79
+MESSAGE  7;(09,04)     -10 ----------      124
+MESSAGE  8;(09,04)     -15 ----------      483
+MESSAGE  9;(09,04)     -13 ----------     1239
+MESSAGE 10;(09,04)     -10 ----------     1886
+MESSAGE 11;(09,04)     -11 ----------     6848
+MESSAGE 12;(09,04)     -23 ----------   139240
+MESSAGE 13;(09,04)     -23 ----------   317229
+MESSAGE Nodes=51383917, Time=317229ms, speed=161977, depth=13-33, Evaluation=-23
+2213879ms
+(17) MESSAGE movenum=17, winrate=97.0902%, draw value=2.21285%, visits = 8134938, timeTaken = 137.422
+2059241ms
+(18) MESSAGE Expected time=212308ms
+MESSAGE  1;(06,06)       4 ----------        1
+MESSAGE  2;(06,06)      -8 ----------        1
+MESSAGE  3;(06,06)       1 ----------        4
+MESSAGE  4;(06,06)       2 ----------       16
+MESSAGE  5;(06,06)       2 ----------       49
+MESSAGE  6;(06,06)       2 ----------      136
+MESSAGE  7;(07,02)      -1 ----------      809
+MESSAGE  8;(06,06)       6 ----------     2608
+MESSAGE  9;(06,06)      -7 ----------     6478
+MESSAGE 10;(06,06)      -3 ----------    10813
+MESSAGE 11;(10,05)     -17 ----------    66505
+MESSAGE 12;(10,05)      -4 ----------    96725
+MESSAGE 13;(10,05)      -7 ----------   168039
+MESSAGE Nodes=27799368, Time=168039ms, speed=165434, depth=13-34, Evaluation=-7
+2384961ms
+(19) MESSAGE movenum=19, winrate=97.32%, draw value=2.38986%, visits = 12077364, timeTaken = 128.5
+2190730ms
+(20) MESSAGE Expected time=200902ms
+MESSAGE  1;(10,06)      -4 ----------       52
+MESSAGE 12;(10,06)      -5 ----------    18027
+MESSAGE 13;(10,06)      -5 ----------   200903
+MESSAGE Nodes=31972407, Time=200903ms, speed=159143, depth=12-27, Evaluation=-5
+2588575ms
+(21) MESSAGE movenum=21, winrate=97.3507%, draw value=2.91804%, visits = 15300031, timeTaken = 120.375
+2321624ms
+(22) MESSAGE Expected time=187328ms
+MESSAGE  1;(04,03)      -2 ----------        1
+MESSAGE 12;(04,06)      -2 ----------    47816
+MESSAGE 13;(04,06)      -2 ----------   122624
+MESSAGE 14;(04,06)     -20 ----------   401532
+MESSAGE Nodes=63817826, Time=401532ms, speed=158935, depth=13-31, Evaluation=-20
+2993265ms
+(23) MESSAGE movenum=23, winrate=97.4237%, draw value=3.25331%, visits = 4001639, timeTaken = 112.625
+2445299ms
+(24) MESSAGE Expected time=160349ms
+MESSAGE  1;(04,03)     -17 ----------        1
+MESSAGE 13;(04,03)     -18 ----------     3028
+MESSAGE 14;(04,03)     -18 ----------   160349
+MESSAGE Nodes=25706172, Time=160349ms, speed=160313, depth=13-27, Evaluation=-18
+3156659ms
+(25) MESSAGE movenum=25, winrate=98.4506%, draw value=0.93791%, visits = 2793945, timeTaken = 105.546
+2558507ms
+(26) MESSAGE Expected time=149456ms
+MESSAGE  1;(06,02)     -19 ----------        2
+MESSAGE 13;(06,02)     -20 ----------   149456
+MESSAGE Nodes=23753320, Time=149456ms, speed=158931, depth=12-0, Evaluation=-20
+3332086ms
+(27) MESSAGE movenum=27, winrate=99.071%, draw value=0.541305%, visits = 6984224, timeTaken = 99.141
+2660605ms
+(28) MESSAGE Expected time=137760ms
+MESSAGE  1;(09,08)     -19 ----------        3
+MESSAGE 12;(09,08)     -19 ----------     5406
+MESSAGE 13;(09,08)     -46 ----------   137761
+MESSAGE Nodes=22555986, Time=137761ms, speed=163732, depth=12-27, Evaluation=-46
+3472855ms
+(29) MESSAGE movenum=29, winrate=99.2914%, draw value=0.401015%, visits = 10226058, timeTaken = 93.39
+2756953ms
+(30) MESSAGE Expected time=128376ms
+MESSAGE  1;(12,05)     -30 ----------        3
+MESSAGE 12;(12,05)     -33 ----------     9399
+MESSAGE 13;(08,01)  -20000 ----------   128376
+MESSAGE Nodes=21628793, Time=128376ms, speed=168480, depth=12-28, Evaluation=-20000
+3607328ms
+(31) MESSAGE movenum=31, winrate=99.7448%, draw value=0.119198%, visits = 3399322, timeTaken = 68.016
+2830271ms
+(32) MESSAGE Expected time=119411ms
+MESSAGE  1;(11,05)       1 ----------        5
+MESSAGE  2;(11,05)       1 ----------        6
+MESSAGE  3;(11,05)      -3 ----------       13
+MESSAGE  4;(11,05)      -4 ----------       19
+MESSAGE  5;(11,05)      -5 ----------       86
+MESSAGE  6;(11,05)     -12 ----------      219
+MESSAGE  7;(10,07)  -19965 ----------      695
+MESSAGE Nodes=113336, Time=695ms, speed=163073, depth=7-18, Evaluation=-19965
+3614895ms
+(33) MESSAGE movenum=33, winrate=99.9173%, draw value=0.0441854%, visits = 1840100, timeTaken = 52.204
+2885823ms
+(34) MESSAGE Expected time=118907ms
+MESSAGE  1;(11,03)  -19960 ----------        2
+MESSAGE Nodes=1, Time=2ms, speed=500, depth=1-0, Evaluation=-19960
+3618681ms
+(35) MESSAGE movenum=35, winrate=99.8682%, draw value=0.0679311%, visits = 1943076, timeTaken = 45.75
+2934563ms
+(36) MESSAGE Expected time=118654ms
+MESSAGE  1;(06,03)     -40 ----------        2
+MESSAGE  2;(06,03)     -40 ----------        2
+MESSAGE  3;(06,03)  -19973 ----------        8
+MESSAGE Nodes=737, Time=8ms, speed=92125, depth=3-8, Evaluation=-19973
+3623906ms
+(37) MESSAGE movenum=37, winrate=99.9761%, draw value=0.0109005%, visits = 1377684, timeTaken = 35.547
+2972554ms
+(38) MESSAGE Expected time=118306ms
+MESSAGE  1;(12,06)  -19967 ----------        2
+MESSAGE Nodes=1, Time=2ms, speed=500, depth=1-0, Evaluation=-19967
+3627974ms
+(39) MESSAGE movenum=39, winrate=99.9164%, draw value=0.0409678%, visits = 579613, timeTaken = 32.094
+3007512ms
+(40) MESSAGE Expected time=118035ms
+MESSAGE  1;(-1,00)  -20000 ----------        0
+MESSAGE Nodes=1, Time=0ms, speed=0, depth=1-0, Evaluation=-20000
+MESSAGE Er...
+3632307ms
+(41) MESSAGE movenum=41, winrate=100%, draw value=5.16629e-12%, visits = 6417419, timeTaken = 30.985
+3040783ms
+
+--> c:\gomocupswap2\server\result\ExperimentalG\0_0_1_1.psq
+
+(1) (2) (3) 26848ms
+(3-swap) MESSAGE SlowRenju 5.1.4 is ready.
+MESSAGE Expected time=359900ms
+MESSAGE  1;(00,05)       7 ----------        1
+MESSAGE  2;(00,05)       7 ----------        1
+MESSAGE  3;(06,05)      -1 ----------       21
+MESSAGE  4;(06,05)       2 ----------       34
+MESSAGE  5;(06,05)       0 ----------      118
+MESSAGE  6;(05,04)       0 ----------      368
+MESSAGE  7;(05,04)       0 ----------     1126
+MESSAGE  8;(05,04)      -3 ----------     3643
+MESSAGE  9;(03,05)      -2 ----------    15410
+MESSAGE 10;(05,04)      -1 ----------    38205
+MESSAGE 11;(05,04)      -3 ----------    97203
+MESSAGE 12;(05,04)      -5 ----------   277455
+MESSAGE Nodes=53063166, Time=277455ms, speed=191249, depth=12-24, Evaluation=-5
+26848ms
+(4) MESSAGE movenum=4, winrate=47.79%, draw value=65.976%, visits = 4439761, timeTaken = 511.75
+553022ms
+(5) MESSAGE Expected time=340601ms
+MESSAGE  1;(03,04)      -1 ----------        1
+MESSAGE  2;(03,04)      -1 ----------        2
+MESSAGE  3;(03,04)      -1 ----------        5
+MESSAGE  4;(03,04)      -1 ----------        9
+MESSAGE  5;(03,04)       1 ----------       22
+MESSAGE  6;(03,04)       0 ----------       38
+MESSAGE  7;(03,04)       0 ----------      268
+MESSAGE  8;(03,04)       4 ----------      719
+MESSAGE  9;(03,04)       5 ----------     4755
+MESSAGE 10;(03,04)       6 ----------    14898
+MESSAGE 11;(03,04)       1 ----------    60998
+MESSAGE 12;(03,04)       2 ----------   150998
+MESSAGE Nodes=28993269, Time=150998ms, speed=192010, depth=12-23, Evaluation=2
+449757ms
+(6) MESSAGE movenum=6, winrate=47.7226%, draw value=73.7986%, visits = 9103523, timeTaken = 447.438
+1002929ms
+(7) MESSAGE Expected time=329916ms
+MESSAGE  1;(04,03)       6 ----------        0
+MESSAGE  2;(04,03)       6 ----------        0
+MESSAGE  3;(04,03)       1 ----------        3
+MESSAGE  4;(04,03)       1 ----------        5
+MESSAGE  5;(05,05)       0 ----------       53
+MESSAGE  6;(05,05)       2 ----------      124
+MESSAGE  7;(05,05)       2 ----------      273
+MESSAGE  8;(04,03)       6 ----------     1015
+MESSAGE  9;(04,03)       6 ----------     1708
+MESSAGE 10;(04,03)       2 ----------    13599
+MESSAGE 11;(04,03)       1 ----------    28105
+MESSAGE 12;(03,03)       4 ----------   119408
+MESSAGE 13;(03,03)       2 ----------   310613
+MESSAGE Nodes=58301321, Time=310613ms, speed=187697, depth=13-29, Evaluation=2
+763337ms
+(8) MESSAGE movenum=8, winrate=84.8678%, draw value=18.5273%, visits = 2170135, timeTaken = 196.89
+1206948ms
+(9) MESSAGE Expected time=309010ms
+MESSAGE  1;(04,03)      -7 ----------        4
+MESSAGE  2;(04,03)      -7 ----------        4
+MESSAGE  3;(05,03)       2 ----------        8
+MESSAGE  4;(05,03)     -10 ----------       15
+MESSAGE  5;(05,03)       4 ----------       28
+MESSAGE  6;(05,03)       3 ----------       52
+MESSAGE  7;(05,03)       5 ----------      161
+MESSAGE  8;(05,03)       8 ----------      424
+MESSAGE  9;(05,03)       8 ----------      773
+MESSAGE 10;(05,03)       8 ----------     1726
+MESSAGE 11;(05,03)       8 ----------     3872
+MESSAGE 12;(05,03)      11 ----------    29748
+MESSAGE 13;(05,03)       8 ----------   112467
+MESSAGE Nodes=21344164, Time=112467ms, speed=189781, depth=13-31, Evaluation=8
+879466ms
+(10) MESSAGE movenum=10, winrate=85.4238%, draw value=16.7346%, visits = 5535107, timeTaken = 182.328
+1391874ms
+(11) MESSAGE Expected time=301268ms
+MESSAGE  1;(06,05)     -11 ----------        1
+MESSAGE  2;(06,05)     -11 ----------        1
+MESSAGE  3;(06,05)       6 ----------        3
+MESSAGE  4;(06,05)       6 ----------        3
+MESSAGE  5;(06,05)       7 ----------       11
+MESSAGE  6;(06,05)       7 ----------       20
+MESSAGE  7;(06,05)      10 ----------      147
+MESSAGE  8;(06,05)      12 ----------      285
+MESSAGE  9;(06,05)      16 ----------     1048
+MESSAGE 10;(06,05)      14 ----------     2764
+MESSAGE 11;(06,05)      15 ----------    10126
+MESSAGE 12;(06,05)      16 ----------    36265
+MESSAGE 13;(06,05)      17 ----------   131458
+MESSAGE Nodes=24840865, Time=131458ms, speed=188964, depth=13-28, Evaluation=17
+1013955ms
+(12) MESSAGE movenum=12, winrate=85.4196%, draw value=17.309%, visits = 8613902, timeTaken = 169.36
+1568440ms
+(13) MESSAGE Expected time=292303ms
+MESSAGE  1;(04,06)      15 ----------        2
+MESSAGE 13;(04,06)      14 ----------   292303
+MESSAGE Nodes=53057255, Time=292303ms, speed=181514, depth=12-1, Evaluation=14
+1309426ms
+(14) MESSAGE movenum=14, winrate=83.9123%, draw value=8.84372%, visits = 2263787, timeTaken = 157.469
+1732288ms
+(15) MESSAGE Expected time=272604ms
+MESSAGE  1;(04,01)       0 ----------        1
+MESSAGE Nodes=1, Time=1ms, speed=1000, depth=1-0, Evaluation=0
+1313416ms
+(16) MESSAGE movenum=16, winrate=87.5065%, draw value=6.08262%, visits = 3661607, timeTaken = 146.719
+1881574ms
+(17) MESSAGE Expected time=272338ms
+MESSAGE  1;(07,04)      19 ----------        1
+MESSAGE  2;(07,04)      12 ----------        2
+MESSAGE  3;(02,05)      11 ----------        8
+MESSAGE  4;(02,05)      11 ----------       20
+MESSAGE  5;(02,05)      11 ----------       67
+MESSAGE  6;(02,05)      11 ----------      254
+MESSAGE  7;(03,06)       9 ----------      859
+MESSAGE  8;(03,06)       9 ----------     1940
+MESSAGE  9;(03,06)       7 ----------     4033
+MESSAGE 10;(02,05)       9 ----------    23185
+MESSAGE 11;(02,05)       9 ----------    79458
+MESSAGE 12;(02,05)       7 ----------   193067
+MESSAGE Nodes=36504697, Time=193067ms, speed=189077, depth=12-26, Evaluation=7
+1509498ms
+(18) MESSAGE movenum=18, winrate=92.9191%, draw value=6.98498%, visits = 1108580, timeTaken = 137.109
+2023314ms
+(19) MESSAGE Expected time=259266ms
+MESSAGE  1;(01,08)      11 ----------        4
+MESSAGE 11;(01,08)       9 ----------   141579
+MESSAGE Nodes=25975676, Time=141579ms, speed=183471, depth=11-25, Evaluation=9
+1654314ms
+(20) MESSAGE movenum=20, winrate=92.192%, draw value=9.23359%, visits = 3505574, timeTaken = 128.25
+2153975ms
+(21) MESSAGE Expected time=249612ms
+MESSAGE  1;(06,03)      12 ----------        1
+MESSAGE  2;(05,04)      14 ----------        2
+MESSAGE  3;(05,04)       9 ----------        6
+MESSAGE  4;(05,04)      14 ----------       27
+MESSAGE  5;(05,04)       9 ----------      116
+MESSAGE  6;(05,04)      10 ----------      350
+MESSAGE  7;(05,04)      11 ----------     1012
+MESSAGE  8;(05,04)       7 ----------     4118
+MESSAGE  9;(05,04)       9 ----------    11971
+MESSAGE 10;(05,04)      10 ----------    45539
+MESSAGE 11;(05,04)       9 ----------   169192
+MESSAGE Nodes=30968656, Time=169192ms, speed=183038, depth=11-24, Evaluation=9
+1827162ms
+(22) MESSAGE movenum=22, winrate=97.8458%, draw value=2.4528%, visits = 1032031, timeTaken = 120.234
+2287198ms
+(23) MESSAGE Expected time=238089ms
+MESSAGE  1;(05,01)      46 ----------        1
+MESSAGE  2;(05,01)      38 ----------        2
+MESSAGE  3;(02,03)      33 ----------        8
+MESSAGE  4;(07,06)      21 ----------       50
+MESSAGE  5;(07,06)      17 ----------      249
+MESSAGE  6;(07,08)      14 ----------     1272
+MESSAGE  7;(07,06)      15 ----------     2487
+MESSAGE  8;(07,06)      12 ----------     7209
+MESSAGE  9;(07,06)      12 ----------    15866
+MESSAGE 10;(07,08)      10 ----------   146495
+MESSAGE 11;(07,08)      10 ----------   292065
+MESSAGE Nodes=53931383, Time=292065ms, speed=184655, depth=11-22, Evaluation=10
+2122228ms
+(24) MESSAGE movenum=24, winrate=98.1785%, draw value=2.11604%, visits = 2285648, timeTaken = 112.531
+2410093ms
+(25) MESSAGE Expected time=218418ms
+MESSAGE  1;(05,01)      41 ----------        1
+MESSAGE  2;(05,01)      33 ----------        2
+MESSAGE  3;(02,03)      29 ----------        6
+MESSAGE  4;(03,01)      28 ----------       45
+MESSAGE  5;(08,07)      22 ----------      155
+MESSAGE  6;(03,01)      16 ----------      550
+MESSAGE  7;(05,01)      11 ----------     1650
+MESSAGE  8;(05,08)       9 ----------     6966
+MESSAGE  9;(05,08)       6 ----------    14263
+MESSAGE 10;(05,08)       0 ----------    42370
+MESSAGE 11;(05,08)      -6 ----------   121824
+MESSAGE 12;(05,08)      -6 ----------   283846
+MESSAGE Nodes=49883740, Time=283846ms, speed=175742, depth=12-26, Evaluation=-6
+2410043ms
+(26) MESSAGE movenum=26, winrate=99.1259%, draw value=0.906506%, visits = 1293964, timeTaken = 105.547
+2520394ms
+(27) MESSAGE Expected time=199230ms
+MESSAGE  1;(03,07)      -5 ----------        0
+MESSAGE 11;(03,07)     -11 ----------    53278
+MESSAGE 12;(03,08)     -38 ----------   303637
+MESSAGE Nodes=54212128, Time=303637ms, speed=178542, depth=12-27, Evaluation=-38
+2719654ms
+(28) MESSAGE movenum=28, winrate=99.5164%, draw value=0.457228%, visits = 1323024, timeTaken = 91.063
+2643352ms
+(29) MESSAGE Expected time=178589ms
+MESSAGE  1;(03,01)     -36 ----------        0
+MESSAGE 11;(02,03)     -50 ----------    73650
+MESSAGE 12;(02,03)     -68 ----------   149011
+MESSAGE Nodes=27569302, Time=149011ms, speed=185015, depth=12-28, Evaluation=-68
+2871799ms
+(30) MESSAGE movenum=30, winrate=99.5515%, draw value=0.450136%, visits = 1570095, timeTaken = 77.813
+2724903ms
+(31) MESSAGE Expected time=168446ms
+MESSAGE  1;(06,09)       2 ----------        0
+MESSAGE  2;(06,09)     -19 ----------        1
+MESSAGE  3;(06,09)     -30 ----------        3
+MESSAGE  4;(03,01)     -65 ----------        8
+MESSAGE  5;(03,01)     -65 ----------        8
+MESSAGE  6;(03,01)     -59 ----------       11
+MESSAGE  7;(03,01)     -54 ----------       26
+MESSAGE  8;(03,01)     -54 ----------       48
+MESSAGE  9;(03,01)     -60 ----------       84
+MESSAGE 10;(03,01)     -60 ----------      211
+MESSAGE 11;(03,01)     -67 ----------     1368
+MESSAGE 12;(02,02)     -83 ----------    70588
+MESSAGE 13;(02,02)     -94 ----------   310079
+MESSAGE Nodes=55284692, Time=310079ms, speed=178292, depth=13-31, Evaluation=-94
+3185177ms
+(32) MESSAGE movenum=32, winrate=99.5702%, draw value=0.410867%, visits = 1505426, timeTaken = 53.781
+2782470ms
+(33) MESSAGE Expected time=147554ms
+MESSAGE  1;(03,01)     -89 ----------        0
+MESSAGE 12;(03,01)     -94 ----------      316
+MESSAGE 13;(02,10)  -19962 ----------   246686
+MESSAGE Nodes=44125529, Time=246686ms, speed=178873, depth=13-29, Evaluation=-19962
+3434806ms
+(34) MESSAGE movenum=34, winrate=99.7678%, draw value=0.255072%, visits = 675130, timeTaken = 43.593
+2830443ms
+(35) MESSAGE Expected time=130912ms
+MESSAGE  1;(00,05)     -52 ----------        7
+MESSAGE  2;(03,07)     -55 ----------        8
+MESSAGE  3;(03,07)     -57 ----------       13
+MESSAGE  4;(07,11)  -19998 ----------       14
+MESSAGE Nodes=1799, Time=14ms, speed=128500, depth=4-7, Evaluation=-19998
+3440936ms
+(36) MESSAGE movenum=36, winrate=99.8455%, draw value=0.180957%, visits = 791143, timeTaken = 41.204
+2903229ms
+(37) MESSAGE Expected time=130504ms
+MESSAGE  1;(03,01)  -19999 ----------        1
+MESSAGE Nodes=1, Time=1ms, speed=1000, depth=1-0, Evaluation=-19999
+3444207ms
+(38) MESSAGE movenum=38, winrate=100%, draw value=9.63787e-06%, visits = 1694888, timeTaken = 38.859
+2946749ms
+(39) MESSAGE Expected time=130286ms
+MESSAGE  1;(-1,00)  -19996 ----------        1
+MESSAGE Nodes=1, Time=1ms, speed=1000, depth=1-0, Evaluation=-19996
+MESSAGE Er...
+3448759ms
+(40) MESSAGE movenum=40, winrate=100%, draw value=1.22482e-09%, visits = 5708676, timeTaken = 33.89
+3012911ms
+(41) MESSAGE Expected time=129982ms
+MESSAGE  1;(-1,00)  -20000 ----------        0
+MESSAGE Nodes=1, Time=0ms, speed=0, depth=1-0, Evaluation=-20000
+MESSAGE Er...
+3453795ms
+(42) MESSAGE movenum=42, winrate=100%, draw value=2.77486e-10%, visits = 11880911, timeTaken = 31
+3046213ms
+
+--> c:\gomocupswap2\server\result\ExperimentalG\0_1_0_2.psq
+

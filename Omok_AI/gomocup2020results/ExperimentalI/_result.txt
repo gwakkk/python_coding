@@ -1,0 +1,10 @@
+1. KATAGOMO 1660
+    wins: 1+1, losses: 0+0, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 2068s, time/turn: 71293ms, move/game: 29
+
+2. EMBRYO20.E 1540
+    wins: 0+0, losses: 1+1, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 1877s, time/turn: 65848ms, move/game: 29
+

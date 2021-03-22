@@ -1,0 +1,9 @@
+[2020-04-26 09:51:51] Server started.
+[2020-04-26 09:53:56] Client 127.0.0.1:49996 connected.
+[2020-04-26 09:53:56] Game (0, 1, 0) started on Client 127.0.0.1:49996.
+[2020-04-26 11:09:18] Server started.
+[2020-04-26 11:47:48] Game (0, 1, 0) finished on Client 127.0.0.1:49996.
+[2020-04-26 11:47:48] Game (1, 0, 0) started on Client 127.0.0.1:49996.
+[2020-04-26 13:16:25] Game (1, 0, 0) finished on Client 127.0.0.1:49996.
+[2020-04-26 13:16:25] Client 127.0.0.1:49996 disconnected.
+[2020-04-26 13:16:26] Server ended.

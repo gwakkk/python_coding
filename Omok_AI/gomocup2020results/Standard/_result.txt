@@ -1,0 +1,85 @@
+1. EMBRYO20.S 2152
+    wins: 178+181, losses: 9+6, draws: 5+5
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 239s, time/turn: 10447ms, move/game: 23
+
+2. YIXIN18 1961
+    wins: 155+161, losses: 30+28, draws: 7+3
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 293s, time/turn: 11482ms, move/game: 26
+
+3. PENTAZEN20.15 1910
+    wins: 157+147, losses: 33+38, draws: 2+7
+    timeouts: 0, errors: 2, total games: 384
+    time/game: 436s, time/turn: 18172ms, move/game: 24
+
+4. ALPHAGOMOKU.MK20 1907
+    wins: 151+152, losses: 38+37, draws: 3+3
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 542s, time/turn: 23214ms, move/game: 23
+
+5. XOXO20.S 1750
+    wins: 122+133, losses: 68+59, draws: 2+0
+    timeouts: 0, errors: 10, total games: 384
+    time/game: 348s, time/turn: 14517ms, move/game: 24
+
+6. RENJUSOLVER.S 1670
+    wins: 111+109, losses: 70+78, draws: 11+5
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 226s, time/turn: 8712ms, move/game: 26
+
+7. WHOSE19 1664
+    wins: 103+117, losses: 83+70, draws: 6+5
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 368s, time/turn: 15327ms, move/game: 24
+
+8. TITO14 1639
+    wins: 102+110, losses: 84+79, draws: 6+3
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 192s, time/turn: 8117ms, move/game: 24
+
+9. SLOWRENJU20 1631
+    wins: 106+102, losses: 83+83, draws: 3+7
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 460s, time/turn: 19998ms, move/game: 23
+
+10. HEWER18 1602
+    wins: 96+101, losses: 93+84, draws: 3+7
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 304s, time/turn: 12329ms, move/game: 25
+
+11. DEEPFIRE19 1557
+    wins: 89+96, losses: 101+92, draws: 2+4
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 575s, time/turn: 24658ms, move/game: 23
+
+12. GOFIVE 1362
+    wins: 61+60, losses: 129+131, draws: 2+1
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 479s, time/turn: 26121ms, move/game: 18
+
+13. CARBON17 1301
+    wins: 53+50, losses: 137+140, draws: 2+2
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 451s, time/turn: 24163ms, move/game: 19
+
+14. ZETOR17 1181
+    wins: 37+38, losses: 155+154, draws: 0+0
+    timeouts: 0, errors: 10, total games: 384
+    time/game: 370s, time/turn: 19726ms, move/game: 19
+
+15. GMOTOR11 1162
+    wins: 36+29, losses: 155+157, draws: 1+6
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 259s, time/turn: 14757ms, move/game: 18
+
+16. PELA17 1151
+    wins: 34+25, losses: 151+163, draws: 7+4
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 569s, time/turn: 30457ms, move/game: 19
+
+17. TIANSHU -
+    wins: 0+0, losses: 192+192, draws: 0+0
+    timeouts: 0, errors: 201, total games: 384
+    time/game: 25s, time/turn: 5986ms, move/game: 4
+

@@ -1,0 +1,546 @@
+(1) (2) (3) MESSAGE SlowRenju 5.1.4 is ready.
+15661ms
+(3-put two stones) (4) (5) MESSAGE Detected following devices : CPU : GenuineIntel : 4 x AVX2 with 32064MB of memory, GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11176MB of memory, GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11178MB of memory
+MESSAGE Using : GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11176MB of memory : GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11178MB of memory
+MESSAGE depth 1-52 ev 49.1 n 5739922 n/s 21752 tm 263868 pv Of4 Xd3 Oe2 Xe5 Of6 Xf5 Oe6 Xd6 Oc5 Xh4 Oh5 Xi6 Oh7 Xe1 Oe4 Xj4 Oi7 Xg7 Oi4 Xh6 Oi5 Xk5 Oi3 Xj3 Oe8 Xj6 Og6 Xf7 Oj5 Xk6 Ol6 Xf3 Oe3 Xe9 Od8 Xc8 Od4 Xf2 Ok7 Xi9 Od10 Xg10 Of9 Xd11 Of11 Xf12 Oh10 Xj9 Ok9 Xj7 Oj10 Xa7
+MESSAGE depth 1-48 ev 50.5 n 14357642 n/s 13358 tm 1074796 pv Oa3 Xa1 Of4 Xf3 Oe3 Xg5 Og4 Xe4 Of5 Xe6 Od4 Xf7 Od5 Xd6 Oc5 Xf2 Od8 Xe8 Od9 Xd10 Oe10 Xc8 Og9 Xf9 Oe5 Xb5 Og11 Xf10 Of8 Xg10 Oh11 Xi11 Oj8 Xh8 Oi10 Xj9 Ok10 Xl10 Ol9 Xm8 Oh13 Xh10 Oi4 Xj4 Ok6 Xj5 Oj3 Xa7
+15661ms
+(5-stay with its color) (6) MESSAGE Expected time=358855ms
+MESSAGE  1;(07,03)       6 ----------        2
+MESSAGE  2;(07,03)       6 ----------        2
+MESSAGE  3;(07,03)       3 ----------        6
+MESSAGE  4;(06,03)       2 ----------       19
+MESSAGE  5;(06,04)       1 ----------      135
+MESSAGE  6;(06,04)       1 ----------      255
+MESSAGE  7;(06,04)       2 ----------      780
+MESSAGE  8;(06,04)      -2 ----------     3116
+MESSAGE  9;(06,04)       2 ----------     6698
+MESSAGE 10;(06,04)       2 ----------    18374
+MESSAGE 11;(06,03)      -2 ----------    68462
+MESSAGE 12;(03,03)       0 ----------   466717
+MESSAGE Nodes=89211133, Time=466717ms, speed=191146, depth=12-27, Evaluation=0
+490507ms
+(7) MESSAGE depth 1-48 ev 54.8 n 3084238 n/s 14941 tm 206425 pv Oe5 Xd4 Od6 Xf5 Og6 Xf4 Of3 Xh6 Og5 Xg7 Of8 Xe7 Of7 Xe8 Of9 Xf10 Og2 Xg4 Oh4 Xi3 Oj5 Xh3 Oe6 Xd5 Oj3 Xj4 Oi6 Xk5 Ol6 Xe9 Oe11 Xg11 Oh12 Xg8 Oh10 Xj6 Oi7 Xi8 Ok4 Xl3 Oi2 Xh1 Ol7 Xl5 Ok8 Xj7 Ok6 Xa4
+1359455ms
+(8) MESSAGE Expected time=327199ms
+MESSAGE  1;(03,04)      -3 ----------        1
+MESSAGE  2;(03,02)      -8 ----------        2
+MESSAGE  3;(03,02)      -6 ----------        3
+MESSAGE  4;(04,04)       3 ----------       13
+MESSAGE  5;(04,04)       3 ----------       21
+MESSAGE  6;(04,04)      -1 ----------       65
+MESSAGE  7;(04,04)      -4 ----------      147
+MESSAGE  8;(03,02)      -3 ----------      461
+MESSAGE  9;(03,02)      -4 ----------     1188
+MESSAGE 10;(04,03)      -2 ----------     7564
+MESSAGE 11;(04,03)       0 ----------    18711
+MESSAGE 12;(04,03)      -1 ----------    37677
+MESSAGE 13;(04,03)      -2 ----------    89198
+MESSAGE 14;(04,03)      -2 ----------   245095
+MESSAGE Nodes=45913230, Time=245095ms, speed=187328, depth=14-32, Evaluation=-2
+744714ms
+(9) MESSAGE depth 1-49 ev 54.2 n 2997778 n/s 14860 tm 201724 pv Od6 Xf5 Og6 Xf4 Of3 Xh6 Og5 Xg7 Of8 Xe7 Og4 Xh5 Oh7 Xf9 Oe9 Xj6 Oi3 Xg3 Ok4 Xk5 Oi5 Xi4 Ol4 Xi9 Oj2 Xh4 Om4 Xn4 Om5 Xi1 Oh3 Xl3 Oi2 Xh2 Oj0 Xj1 Oj9 Xm7 Ok6 Xj7 Oh8 Xk10 Of10 Xg11 Oe11 Xg9 Og10 Xh10 Ob3
+1563724ms
+(10) MESSAGE Expected time=310252ms
+MESSAGE  1;(03,04)       5 ----------        1
+MESSAGE  2;(03,04)       5 ----------        1
+MESSAGE  3;(03,04)      10 ----------        8
+MESSAGE  4;(03,04)       7 ----------       12
+MESSAGE  5;(03,04)       6 ----------       59
+MESSAGE  6;(03,04)       6 ----------      146
+MESSAGE  7;(04,05)      10 ----------      880
+MESSAGE  8;(04,05)       8 ----------     1640
+MESSAGE  9;(04,05)       9 ----------     4699
+MESSAGE 10;(04,05)       8 ----------    12845
+MESSAGE 11;(04,05)       5 ----------    39581
+MESSAGE 12;(04,05)       2 ----------   129009
+MESSAGE Nodes=24827364, Time=129009ms, speed=192446, depth=12-25, Evaluation=2
+877015ms
+(11) MESSAGE depth 1-44 ev 67.1 n 2868695 n/s 14978 tm 191515 pv Of5 Xg4 Oh4 Xh5 Og5 Xf3 Oe2 Xc5 Oe3 Xe4 Od5 Xf7 Oe8 Xi3 Od8 Xe9 Oi6 Xg8 Oj6 Xh6 Og7 Xj3 Oi4 Xk5 Ol6 Xi5 Ol5 Xk6 Ok3 Xl7 Oh9 Xi9 Ok4 Xl4 Of11 Xd9 Og10 Xi8 Oh11 Xf9 Oc9 Xh10 Og11 Xb8
+1757431ms
+(12) MESSAGE Expected time=301432ms
+MESSAGE  1;(03,04)       1 ----------        0
+MESSAGE  2;(05,03)       2 ----------        1
+MESSAGE  3;(03,04)      13 ----------        6
+MESSAGE  4;(03,04)      13 ----------       13
+MESSAGE  5;(03,04)      13 ----------       40
+MESSAGE  6;(03,04)      14 ----------      116
+MESSAGE  7;(03,04)      12 ----------      375
+MESSAGE  8;(03,04)       7 ----------     1095
+MESSAGE  9;(03,04)      10 ----------     2950
+MESSAGE 10;(03,04)       5 ----------    17911
+MESSAGE 11;(03,04)       3 ----------    49432
+MESSAGE 12;(03,04)       5 ----------   130290
+MESSAGE Nodes=24696294, Time=130290ms, speed=189548, depth=12-28, Evaluation=5
+1010065ms
+(13) MESSAGE depth 1-41 ev 68.1 n 2764642 n/s 15206 tm 181812 pv Og4 Xh5 Og3 Xe6 Og5 Xg6 Of2 Xh4 Oh6 Xc3 Ob3 Xf8 Oi4 Xg2 Oj4 Xf7 Oi5 Xk3 Oi3 Xi2 Ok6 Xh2 Oj5 Xh3 Oh1 Xi6 Oj7 Xe8 Od9 Xk2 Oj2 Xf9 Oj8 Xj6 Oi7 Xk9 Ol7 Xm8 Ok7 Xd7 Om7
+1941404ms
+(14) MESSAGE Expected time=292562ms
+MESSAGE  1;(03,02)       7 ----------        0
+MESSAGE 11;(02,05)       0 ----------    90013
+MESSAGE 12;(02,05)       6 ----------   182712
+MESSAGE 13;(02,05)       7 ----------   439230
+MESSAGE Nodes=81218957, Time=439230ms, speed=184912, depth=13-32, Evaluation=7
+1452785ms
+(15) MESSAGE depth 1-35 ev 76.8 n 2597342 n/s 15047 tm 172604 pv Oc5 Xc3 Ob3 Xf3 Og3 Xd5 Oe4 Xe7 Oh6 Xg6 Oi5 Xh3 Oi4 Xj4 Oh8 Xh4 Oi7 Xi6 Oh2 Xh9 Og5 Xh5 Oj8 Xk9 Oi9 Xg1 Oh0 Xg8 Og7 Xf6 Ok7 Xf7 Oe6 Xd2 Oc8
+2116064ms
+(16) MESSAGE Expected time=263047ms
+MESSAGE  1;(03,02)       9 ----------        2
+MESSAGE 12;(03,02)       6 ----------     2420
+MESSAGE 13;(03,02)       3 ----------   252875
+MESSAGE Nodes=46205916, Time=252875ms, speed=182722, depth=13-33, Evaluation=3
+1708788ms
+(17) 2117492ms
+(18) MESSAGE Expected time=245980ms
+MESSAGE  1;(03,05)       9 ----------        1
+MESSAGE 13;(03,05)       6 ----------    36233
+MESSAGE 14;(03,05)       6 ----------   245980
+MESSAGE Nodes=46739610, Time=245980ms, speed=190013, depth=13-31, Evaluation=6
+1957807ms
+(19) 2118997ms
+(20) MESSAGE Expected time=229379ms
+MESSAGE  1;(05,03)      12 ----------        1
+MESSAGE 13;(05,03)      12 ----------   229379
+MESSAGE Nodes=43465115, Time=229379ms, speed=189490, depth=12-0, Evaluation=12
+2190294ms
+(21) MESSAGE depth 1-52 ev 74.2 n 2472676 n/s 15104 tm 163708 pv Oe4 Xe7 Oh6 Xg6 Oi5 Xh4 Oi3 Xh3 Oi4 Xg1 Oh0 Xi6 Oj4 Xk3 Oj7 Xf1 Of0 Xh1 Oe1 Xh5 Oh2 Xk5 Oj8 Xi1 Oj1 Xi7 Oh9 Xg7 Oh7 Xh10 Oj6 Xj5 Oi8 Xk6 Ok7 Xl8 Og0 Xi0 Og8 Xh8 Oi10 Xf7 Oj9 Xj10 Oi9 Xe8 Od9 Xd7 Oc7 Xf9 Ok9 Xb5
+2285188ms
+(22) MESSAGE Expected time=213880ms
+MESSAGE  1;(05,06)      24 ----------        2
+MESSAGE  2;(01,06)      18 ----------        3
+MESSAGE  3;(01,06)      18 ----------        5
+MESSAGE  4;(02,06)      12 ----------       35
+MESSAGE  5;(02,06)       8 ----------       77
+MESSAGE  6;(02,06)       8 ----------      240
+MESSAGE  7;(02,06)       6 ----------      676
+MESSAGE  8;(02,06)      10 ----------     1855
+MESSAGE  9;(02,06)      14 ----------     4762
+MESSAGE 10;(02,06)       8 ----------    21721
+MESSAGE 11;(02,06)      11 ----------    50765
+MESSAGE 12;(02,06)       2 ----------   213880
+MESSAGE Nodes=41959787, Time=213880ms, speed=196183, depth=11-27, Evaluation=2
+2407626ms
+(23) MESSAGE depth 1-29 ev 81.6 n 2353209 n/s 15143 tm 155395 pv Oh2 Xe8 Oh6 Xh3 Oi4 Xg6 Oi5 Xd7 Of9 Xa4 Ob5 Xa5 Oa6 Xg1 Oh0 Xe1 Od1 Xd2 Ob4 Xf1 Of0 Xc2 Oe2 Xb6 Of8 Xe7 Og7 Xe9 Oj4
+2442832ms
+(24) MESSAGE Expected time=199391ms
+MESSAGE  1;(08,05)       5 ----------        2
+MESSAGE 11;(07,04)       5 ----------   189514
+MESSAGE Nodes=36019539, Time=189514ms, speed=190062, depth=11-27, Evaluation=5
+2600723ms
+(25) MESSAGE depth 1-45 ev 84.6 n 2248773 n/s 15247 tm 147488 pv Oh6 Xg6 Oi5 Xh4 Oi4 Xi6 Og7 Xj4 Oh8 Xi9 Oh9 Xh7 Og8 Xf8 Og5 Xh5 Oi10 Xf7 Og10 Xd2 Od1 Xf0 Of1 Xf10 Of11 Xi8 Og11 Xg9 Oh11 Xi11 Oh10 Xh12 Og12 Xj9 Ok10 Xj10 Og13 Xg14 Of13 Xe14 Od13 Xe12 Oe13 Xh13 Oc13
+2592805ms
+(26) MESSAGE Expected time=186518ms
+MESSAGE  1;(03,07)      28 ----------        2
+MESSAGE  2;(03,07)      32 ----------        3
+MESSAGE  3;(03,07)      19 ----------        4
+MESSAGE  4;(03,07)      15 ----------       14
+MESSAGE  5;(03,07)       7 ----------       54
+MESSAGE  6;(03,07)       7 ----------      133
+MESSAGE  7;(03,07)       8 ----------      775
+MESSAGE  8;(03,07)       9 ----------     2133
+MESSAGE  9;(03,07)      -3 ----------    15744
+MESSAGE 10;(06,06)       0 ----------    65316
+MESSAGE 11;(06,06)       0 ----------   123049
+MESSAGE 12;(06,06)       2 ----------   399796
+MESSAGE Nodes=73847408, Time=399797ms, speed=184712, depth=11-26, Evaluation=2
+3003880ms
+(27) MESSAGE depth 1-45 ev 84.6 n 2154505 n/s 15380 tm 140084 pv Oi5 Xh4 Oi4 Xi6 Og7 Xj4 Oh8 Xi9 Oh9 Xh7 Og8 Xf8 Oi10 Xf7 Og5 Xh5 Og10 Xg1 Oh0 Xd2 Od1 Xf10 Of11 Xi8 Og11 Xg9 Oh11 Xf9 Of6 Xi11 Oh10 Xh12 Og12 Xj9 Ok10 Xj10 Og13 Xg14 Of13 Xe14 Od13 Xe12 Oe13 Xd9 Oc13
+2734809ms
+(28) MESSAGE Expected time=159641ms
+MESSAGE  1;(05,07)       5 ----------       17
+MESSAGE 11;(05,07)      -5 ----------   105007
+MESSAGE 12;(05,07)      -7 ----------   244780
+MESSAGE Nodes=43460716, Time=244780ms, speed=177550, depth=12-30, Evaluation=-7
+3251696ms
+(29) MESSAGE depth 1-35 ev 89.6 n 2053411 n/s 15452 tm 132882 pv Oi4 Xj4 Oi6 Xi3 Ok6 Xl6 Ol7 Xj5 Ok7 Xj7 Oj6 Xh4 Ok8 Xd2 Od1 Xk5 Om7 Xf0 Of1 Xh0 Og1 Xe1 Ob4 Xg5 Of6 Xj2 Ok1 Xj3 Oj1 Xg0 Ol8 Xm9 Ok9 Xk10 Ob0
+2869845ms
+(30) MESSAGE Expected time=143120ms
+MESSAGE  1;(03,08)      -5 ----------        2
+MESSAGE 11;(03,08)      -8 ----------    37090
+MESSAGE 12;(03,08)      -8 ----------   143121
+MESSAGE Nodes=25012649, Time=143121ms, speed=174765, depth=11-27, Evaluation=-8
+3398215ms
+(31) MESSAGE depth 1-29 ev 90.8 n 1894128 n/s 15011 tm 126176 pv Og7 Xj4 Oi7 Xe8 Oj8 Xg5 Of6 Xh8 Ok7 Xd9 Of7 Xd2 Od1 Xf0 Of1 Xh0 Og1 Xe1 Ob4 Xe9 Oj6 Xh4 Oi6 Xi8 Ol6 Xk6 Om5 Xe10 On4
+2998193ms
+(32) MESSAGE Expected time=133352ms
+MESSAGE  1;(04,09)     -10 ----------        3
+MESSAGE 11;(04,09)     -20 ----------   133353
+MESSAGE Nodes=22982127, Time=133353ms, speed=172340, depth=10-0, Evaluation=-20
+3542579ms
+(33) MESSAGE depth 1-26 ev 91.5 n 1796286 n/s 14997 tm 119773 pv Oi7 Xi8 Oh8 Xf0 Of1 Xd2 Od1 Xe1 Ob4 Xh0 Og1 Xg0 Oe0 Xc2 Oe2 Xi0 Oj0 Xj6 Oi9 Xf6 Oh9 Xg5 Oh4 Xh7 Oj9 Xa0
+3120245ms
+(34) MESSAGE Expected time=123728ms
+MESSAGE  1;(02,09)     -19 ----------        2
+MESSAGE 10;(08,09)     -21 ----------    92121
+MESSAGE Nodes=15888129, Time=92121ms, speed=172470, depth=10-26, Evaluation=-21
+3638772ms
+(35) MESSAGE depth 1-25 ev 95.0 n 1744179 n/s 15344 tm 113668 pv Oh8 Xd2 Od1 Xf0 Of1 Xe1 Ob4 Xc2 Oe2 Xe0 Og0 Xh0 Og1 Xi9 Oj6 Xk5 Ok7 Xh4 Oh7 Xj7 Og8 Xi6 Of8 Xe9 Ob1
+3236436ms
+(36) MESSAGE Expected time=117315ms
+MESSAGE  1;(06,09)     -14 ----------        4
+MESSAGE  2;(06,09)     -15 ----------        4
+MESSAGE  3;(07,10)     -18 ----------       10
+MESSAGE  4;(07,10)     -22 ----------       23
+MESSAGE  5;(08,04)     -19 ----------      171
+MESSAGE  6;(09,08)     -20 ----------      746
+MESSAGE  7;(06,05)     -20 ----------     2413
+MESSAGE  8;(07,09)     -20 ----------     8950
+MESSAGE  9;(07,09)     -35 ----------    26103
+MESSAGE 10;(06,09)     -40 ----------   107063
+MESSAGE Nodes=17923001, Time=107063ms, speed=167406, depth=10-26, Evaluation=-40
+3749292ms
+(37) MESSAGE depth 1-19 ev 97.7 n 2258000 n/s 20933 tm 107867 pv Oj7 Xh7 Oi8 Xi6 Og10 Xd2 Od1 Xf0 Of1 Xh9 Oi9 Xf6 Oj10 Xk11 Oi10 Xi11 Oh10 Xf10 Ok10
+3346425ms
+(38) MESSAGE Expected time=109947ms
+MESSAGE  1;(02,03)     -41 ----------        6
+MESSAGE  9;(02,03)    -103 ----------    13977
+MESSAGE 10;(02,03)  -19968 ----------    32599
+MESSAGE Nodes=5496149, Time=32599ms, speed=168598, depth=10-27, Evaluation=-19968
+3784890ms
+(39) 3347773ms
+(40) MESSAGE Expected time=107574ms
+MESSAGE  1;(07,07)  -19961 ----------        9
+MESSAGE Nodes=1, Time=9ms, speed=111, depth=1-0, Evaluation=-19961
+3788472ms
+(41) MESSAGE depth 1-21 ev 98.9 n 2721123 n/s 26582 tm 102366 pv Oi8 Xi6 Oi9 Xf6 Oe1 Xb1 Oh9 Xg5 Oh4 Xg10 Ok9 Xf1 Of0 Xj9 Oj10 Xk11 Oi11 Xi10 Oh12 Xl8 Og13
+3452371ms
+(42) MESSAGE Expected time=107335ms
+MESSAGE  1;(06,08)       0 ----------        2
+MESSAGE Nodes=1, Time=2ms, speed=500, depth=1-0, Evaluation=0
+3829993ms
+(43) MESSAGE depth 1-17 ev 98.9 n 2444289 n/s 25183 tm 97060 pv Oi9 Xf6 Oe1 Xb1 Oh9 Xg10 Ok9 Xg5 Oh4 Xj9 Oj10 Xk11 Oi11 Xi10 Oh12 Xg13 Ol8
+3551500ms
+(44) MESSAGE Expected time=104567ms
+MESSAGE  1;(06,05)       0 ----------        3
+MESSAGE Nodes=1, Time=3ms, speed=333, depth=1-0, Evaluation=0
+3834138ms
+(45) MESSAGE depth 1-15 ev 99.0 n 2457486 n/s 26666 tm 92155 pv Oe1 Xb1 Oh9 Xg5 Oh4 Xg10 Ok9 Xj9 Oj10 Xk11 Oi11 Xi10 Oh12 Xl8 Og13
+3646082ms
+(46) MESSAGE Expected time=104290ms
+MESSAGE  1;(01,01)       0 ----------        8
+MESSAGE Nodes=1, Time=8ms, speed=125, depth=1-0, Evaluation=0
+3838190ms
+(47) MESSAGE depth 1-11 ev 99.3 n 2713977 n/s 31069 tm 87353 pv Og10 Xg5 Oh4 Xh9 Oj10 Xk11 Oi10 Xi11 Oh10 Xf10 Ok10
+3736055ms
+(48) MESSAGE Expected time=104020ms
+MESSAGE  1;(06,10)     -12 ----------        6
+MESSAGE  2;(01,05)     -23 ----------        7
+MESSAGE  3;(05,06)     -43 ----------       12
+MESSAGE  4;(05,06)     -46 ----------       19
+MESSAGE  5;(05,06)     -65 ----------       38
+MESSAGE  6;(06,10)  -19978 ----------       46
+MESSAGE Nodes=7084, Time=46ms, speed=154000, depth=6-16, Evaluation=-19978
+3845430ms
+(49) MESSAGE depth 1-7 ev 99.9 n 11083044 n/s 133768 tm 82852 pv Oj10 Xk11 Oi10 Xi11 Oh10 Xf10 Ok10
+3821575ms
+(50) MESSAGE Expected time=103538ms
+MESSAGE  1;(-1,00)  -20000 ----------        0
+MESSAGE Nodes=1, Time=0ms, speed=0, depth=1-0, Evaluation=-20000
+MESSAGE Er...
+3850264ms
+(51) MESSAGE depth 1-5 ev 99.9 n 30241026 n/s 384512 tm 78647 pv Oi10 Xi11 Oh10 Xf10 Ok10
+3902392ms
+(52) MESSAGE Expected time=103215ms
+MESSAGE  1;(-1,00)  -20000 ----------        0
+MESSAGE Nodes=1, Time=0ms, speed=0, depth=1-0, Evaluation=-20000
+MESSAGE Er...
+3854020ms
+(53) MESSAGE depth 1-3 ev 99.9 n 43428864 n/s 582583 tm 74545 pv Oh10 Xl6 Ok10
+3979286ms
+(54) MESSAGE Expected time=102965ms
+MESSAGE  1;(-1,00)  -20000 ----------        2
+MESSAGE Nodes=1, Time=2ms, speed=500, depth=1-0, Evaluation=-20000
+MESSAGE Er...
+3859135ms
+(55) 3980807ms
+
+--> C:\gomocupswap2\server\result\ExperimentalJ\0_0_1_1.psq
+
+(1) (2) (3) MESSAGE Detected following devices : CPU : GenuineIntel : 4 x AVX2 with 32064MB of memory, GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11176MB of memory, GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11178MB of memory
+MESSAGE Using : GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11176MB of memory : GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11178MB of memory
+15004ms
+(3-swap) MESSAGE SlowRenju 5.1.4 is ready.
+MESSAGE Expected time=359900ms
+MESSAGE  1;(11,11)       6 ----------        0
+MESSAGE  2;(11,11)       6 ----------        0
+MESSAGE  3;(10,10)      -3 ----------       16
+MESSAGE  4;(10,10)       1 ----------       40
+MESSAGE  5;(10,10)       2 ----------      109
+MESSAGE  6;(09,10)       1 ----------      622
+MESSAGE  7;(09,10)       0 ----------     1359
+MESSAGE  8;(08,09)      -1 ----------     8015
+MESSAGE  9;(09,10)      -2 ----------    30703
+MESSAGE 10;(09,10)      -1 ----------    46807
+MESSAGE 11;(10,10)      -1 ----------   155998
+MESSAGE 12;(10,10)      -1 ----------   308940
+MESSAGE Nodes=58508463, Time=308940ms, speed=189384, depth=12-25, Evaluation=-1
+15004ms
+(4) MESSAGE depth 1-46 ev 49.7 n 5655929 n/s 21241 tm 266267 pv Xk10 Ol9 Xk8 Ok9 Xm9 Oj10 Xi11 Ok11 Xl10 Oi8 Xi9 Og8 Xl7 Oj9 Xk7 Oj8 Xj7 Om7 Xh7 Oi7 Xf8 Og9 Xh6 Oh5 Xg10 Oi5 Xi4 Ok6 Xj6 Oj4 Xk5 Oe6 Xf7 Of10 Xe11 Of6 Xe5 Od7 Xd6 Oe9 Xd8 Oc8 Xf5 Oc5 Xc7 Oa9
+286398ms
+(5) MESSAGE Expected time=338175ms
+MESSAGE  1;(12,10)       1 ----------        0
+MESSAGE 12;(09,10)       0 ----------   213039
+MESSAGE 13;(09,10)      -1 ----------   724776
+MESSAGE Nodes=132611374, Time=724776ms, speed=182968, depth=12-24, Evaluation=-1
+1057207ms
+(6) MESSAGE depth 1-52 ev 53.4 n 6007140 n/s 23851 tm 251856 pv Xj8 Ol9 Xm9 Oj10 Xi11 Ol11 Xi9 Ol10 Xl12 Ok8 Xm10 Ol7 Xl8 Om6 Xn5 Oi10 Xj9 Oj6 Xk5 Ok6 Xi6 Ol6 Xn6 Ol5 Xn7 On4 Xn9 On8 Xm4 Oh7 Xf8 Og9 Xf7 Oo11 Xo13 Oi4 Xj5 Oh4 Xi5 Oj3 Xj4 Oh5 Xh6 Og7 Xk2 Ol3 Xl4 Ok3 Xi3 Of6 Xg10 Od1
+544292ms
+(7) MESSAGE Expected time=289419ms
+MESSAGE  1;(11,11)      -2 ----------        1
+MESSAGE  2;(11,11)      -2 ----------        1
+MESSAGE  3;(11,11)       1 ----------        9
+MESSAGE  4;(11,11)       1 ----------       16
+MESSAGE  5;(11,11)       1 ----------       76
+MESSAGE  6;(11,11)       1 ----------      181
+MESSAGE  7;(11,11)      -1 ----------      498
+MESSAGE  8;(11,11)       1 ----------     1128
+MESSAGE  9;(10,11)       2 ----------     7188
+MESSAGE 10;(10,11)       3 ----------    14571
+MESSAGE 11;(10,11)       2 ----------    47067
+MESSAGE 12;(10,11)       2 ----------   155673
+MESSAGE Nodes=29242681, Time=155673ms, speed=187846, depth=12-27, Evaluation=2
+1233680ms
+(8) MESSAGE depth 1-48 ev 58.7 n 3564487 n/s 14899 tm 239242 pv Xl9 Oj11 Xi11 Oi8 Xh9 Ok11 Xl11 Om12 Xm9 Oj6 Xi6 Oh7 Xh5 Oj7 Xf7 Ol12 Xn12 Oj10 Xi9 Ok7 Xi7 Oi5 Xh4 Ok6 Xk5 Om13 Xn14 Ol7 Xn7 Om8 Xj5 Oo10 Xn9 Oo9 Xo11 Oj9 Xi10 On6 Xl6 Om6 Xm7 Oj4 Xg6 Oe8 Xe6 Og8 Xf6 Of4
+789015ms
+(9) MESSAGE Expected time=277654ms
+MESSAGE  1;(11,09)      -4 ----------        0
+MESSAGE  2;(11,09)       3 ----------        0
+MESSAGE  3;(11,09)       3 ----------        0
+MESSAGE  4;(11,09)      -5 ----------        9
+MESSAGE  5;(11,09)      -5 ----------       11
+MESSAGE  6;(11,09)      -2 ----------       64
+MESSAGE  7;(11,10)       3 ----------      423
+MESSAGE  8;(11,09)       5 ----------     2424
+MESSAGE  9;(11,09)       4 ----------     4368
+MESSAGE 10;(11,09)       2 ----------    12409
+MESSAGE 11;(11,09)       4 ----------    58344
+MESSAGE 12;(11,09)       4 ----------   130670
+MESSAGE Nodes=25038712, Time=130670ms, speed=191617, depth=12-24, Evaluation=4
+1367606ms
+(10) MESSAGE depth 1-42 ev 59.8 n 3409980 n/s 14836 tm 229842 pv Xk11 Oi8 Xh9 Oj6 Xg7 Ok7 Xi5 Oh6 Xg9 Oi6 Xg6 Og8 Xk6 Of9 Xh7 Oe7 Xe8 Of7 Xf10 Oe11 Xf5 Oe4 Xe3 Od5 Xd4 Og3 Xh10 Oh11 Xe6 Og4 Xf3 Of2 Xd8 Oe9 Xe10 Od10 Xc8 Ob8 Xc9 Oc6 Xb7 Oa6
+1021612ms
+(11) MESSAGE Expected time=268726ms
+MESSAGE  1;(12,10)      -1 ----------        0
+MESSAGE  2;(12,10)       2 ----------        1
+MESSAGE  3;(12,10)       2 ----------        3
+MESSAGE  4;(12,10)       2 ----------       21
+MESSAGE  5;(12,10)       6 ----------       38
+MESSAGE  6;(12,10)       2 ----------       86
+MESSAGE  7;(12,10)       2 ----------      454
+MESSAGE  8;(12,10)       2 ----------     1331
+MESSAGE  9;(12,10)       4 ----------     4847
+MESSAGE 10;(12,10)       4 ----------    22335
+MESSAGE 11;(12,10)       3 ----------    87039
+MESSAGE 12;(12,10)       1 ----------   268726
+MESSAGE Nodes=50063791, Time=268726ms, speed=186300, depth=11-22, Evaluation=1
+1639452ms
+(12) MESSAGE depth 1-51 ev 67.8 n 3252464 n/s 14883 tm 218533 pv Xm12 Ol11 Xi10 Oj7 Xh11 Ok7 Xi7 Oi8 Xg10 Oj13 Xj10 Oh10 Xm10 Og9 Xf8 Of9 Xf11 Oe10 Xe9 Od10 Xd8 Of10 Xg8 Oe8 Xh6 Og7 Xf6 Og5 Xe6 Od6 Xf7 Oh9 Xf5 Of4 Xl12 Oi9 Xe4 Og6 Xg4 Oh3 Xd5 Oc4 Xf3 Oc6 Xe2 Od1 Xg2 Oh1 Xf2 Od2 Xb5
+1242506ms
+(13) MESSAGE Expected time=250603ms
+MESSAGE  1;(11,11)      15 ----------        2
+MESSAGE  2;(11,11)      15 ----------        2
+MESSAGE  3;(11,11)      16 ----------       12
+MESSAGE  4;(11,11)      13 ----------       22
+MESSAGE  5;(11,11)      13 ----------      102
+MESSAGE  6;(11,11)       6 ----------      557
+MESSAGE  7;(11,11)       8 ----------      995
+MESSAGE  8;(11,11)       6 ----------     2584
+MESSAGE  9;(11,11)       5 ----------     9291
+MESSAGE 10;(11,11)       3 ----------    29907
+MESSAGE 11;(11,11)      -1 ----------   111340
+MESSAGE Nodes=21521894, Time=111340ms, speed=193298, depth=11-28, Evaluation=-1
+1753738ms
+(14) MESSAGE depth 1-47 ev 67.5 n 3112421 n/s 14997 tm 207523 pv Xi10 Oj7 Xh11 Ok7 Xi7 Oi8 Xg10 Oj13 Xj10 Oh10 Xm10 Og9 Xf8 Of9 Xf11 Oe10 Xe9 Od11 Xg8 Od8 Xe12 Od13 Xg12 Of13 Xf7 Oe6 Xg13 Oi11 Xl12 Ok13 Xj12 Oi9 Xd10 Og7 Xh5 Og6 Xf12 Oc12 Xb13 Oe11 Xf6 Of5 Xh7 Oh4 Xg4 Oc11 Xa10
+1452135ms
+(15) MESSAGE Expected time=242984ms
+MESSAGE  1;(12,11)       4 ----------        0
+MESSAGE 10;(07,09)       5 ----------    52821
+MESSAGE 11;(07,09)       5 ----------   177780
+MESSAGE Nodes=33786381, Time=177780ms, speed=190046, depth=11-24, Evaluation=5
+1935524ms
+(16) MESSAGE depth 1-45 ev 67.5 n 2943866 n/s 14942 tm 197018 pv Xg9 Oj10 Xj13 Ok7 Xl8 Ol7 Xi7 Oo13 Xn12 Oo10 Xo11 Ok6 Xk5 Om8 Xn9 Oh8 Xi6 Ol5 Xi8 Oi9 Xm6 Oi5 Xi4 Og6 Xg7 Ok3 Xl4 Oj4 Xl2 Oe7 Xf9 Og10 Xm3 Oj6 Xh4 Oe6 Xk2 Om2 Xk1 On4 Xj2 Oi3 Xl1 Oj3 Xe9
+1651811ms
+(17) MESSAGE Expected time=230865ms
+MESSAGE  1;(10,09)      18 ----------        1
+MESSAGE  2;(10,09)      25 ----------        2
+MESSAGE  3;(13,09)      24 ----------        5
+MESSAGE  4;(10,09)      14 ----------       25
+MESSAGE  5;(10,09)       7 ----------      101
+MESSAGE  6;(12,11)       6 ----------      690
+MESSAGE  7;(13,09)      18 ----------     1812
+MESSAGE  8;(13,09)      17 ----------     5086
+MESSAGE  9;(13,09)      13 ----------    13483
+MESSAGE 10;(13,09)       6 ----------    47222
+MESSAGE 11;(13,09)      10 ----------   163341
+MESSAGE Nodes=30719995, Time=163341ms, speed=188072, depth=11-23, Evaluation=10
+2102122ms
+(18) MESSAGE depth 1-49 ev 67.2 n 2809478 n/s 15014 tm 187112 pv Xm10 Ok13 Xi13 Oh10 Xi11 Oi12 Xh12 Of9 Xh11 Og11 Xl7 Ok8 Xl6 Ol5 Xk6 Oj5 Xi5 Oj10 Xj12 Oj6 Xj4 On10 Xo9 Ok4 Xh7 Ok3 Xm5 Ok7 Xj3 Og6 Xf6 Om7 Xl8 Of4 Xg7 Oh6 Xe5 Od4 Xe7 Of7 Xg5 Od8 Xi3 Oh4 Xg4 Of5 Xe8 Oe6 Xc4
+1840893ms
+(19) MESSAGE Expected time=219758ms
+MESSAGE  1;(12,11)      15 ----------        0
+MESSAGE 10;(12,11)      10 ----------     2574
+MESSAGE 11;(12,11)       7 ----------    58260
+MESSAGE 12;(12,11)       9 ----------   176322
+MESSAGE Nodes=32112953, Time=176322ms, speed=182126, depth=12-26, Evaluation=9
+2281438ms
+(20) MESSAGE depth 1-33 ev 77.7 n 2794928 n/s 15736 tm 177605 pv Xk13 Oi8 Xg10 Ol13 Xl14 Oj10 Xj12 Oo13 Xn12 Oo11 Xo10 Ok6 Xl5 Ok7 Xn10 On11 Xg12 Og13 Xg11 Og8 Xh12 Ok8 Xk5 Om7 Xf12 Oi12 Xh10 Oi9 Xf10 Oe10 Xe9 Ol7 Xd8
+2020788ms
+(21) MESSAGE Expected time=207804ms
+MESSAGE  1;(11,07)      11 ----------        0
+MESSAGE  2;(12,09)      15 ----------        0
+MESSAGE  3;(12,09)      15 ----------        0
+MESSAGE  4;(10,06)      18 ----------        5
+MESSAGE  5;(10,06)      14 ----------        9
+MESSAGE  6;(10,06)      11 ----------       39
+MESSAGE  7;(10,06)      12 ----------      113
+MESSAGE  8;(10,06)       9 ----------     1434
+MESSAGE  9;(10,06)      10 ----------     9096
+MESSAGE 10;(10,06)      10 ----------    26383
+MESSAGE 11;(10,06)       9 ----------    95519
+MESSAGE Nodes=18199294, Time=95519ms, speed=190530, depth=11-23, Evaluation=9
+2379599ms
+(22) MESSAGE depth 1-32 ev 75.9 n 2520508 n/s 14949 tm 168600 pv Xh11 Oh8 Xi8 Oh7 Xh6 Oi6 Xf9 Oj5 Xk4 Oh5 Xk8 Oj9 Xe9 Oh9 Xk7 Ol8 Xi11 Oi9 Xg7 Of8 Xk5 Ok6 Xi4 Oj4 Xg5 Of4 Xd8 Of6 Xf3 Od9 Xf7 Oc6
+2191651ms
+(23) MESSAGE Expected time=201260ms
+MESSAGE  1;(09,09)      12 ----------        0
+MESSAGE  2;(09,09)      13 ----------        1
+MESSAGE  3;(09,09)      15 ----------        1
+MESSAGE  4;(09,09)       4 ----------       25
+MESSAGE  5;(09,09)       4 ----------       42
+MESSAGE  6;(08,10)       7 ----------      390
+MESSAGE  7;(07,10)      12 ----------     1228
+MESSAGE  8;(07,10)       6 ----------     3551
+MESSAGE  9;(07,10)       6 ----------    10491
+MESSAGE 10;(07,10)       8 ----------    37775
+MESSAGE 11;(07,10)       7 ----------   130037
+MESSAGE Nodes=24110908, Time=130037ms, speed=185415, depth=11-23, Evaluation=7
+2516416ms
+(24) MESSAGE depth 1-31 ev 83.4 n 2504875 n/s 15646 tm 160096 pv Xj9 Ok8 Xh7 Oh8 Xf9 Oh9 Xi8 Og6 Xe10 Oi6 Xf11 Ol13 Xl14 Ok6 Xk5 Og12 Xf10 Of8 Xd11 Og8 Xe11 Og11 Xc12 Ob13 Xc11 Ob11 Xc13 Od12 Xc10 Oj6 Xc14
+2353920ms
+(25) MESSAGE Expected time=192138ms
+MESSAGE  1;(08,10)      21 ----------        3
+MESSAGE  2;(08,10)      21 ----------        3
+MESSAGE  3;(08,10)      16 ----------        8
+MESSAGE  4;(08,10)      13 ----------       22
+MESSAGE  5;(08,10)       6 ----------       78
+MESSAGE  6;(08,10)       5 ----------      222
+MESSAGE  7;(08,10)      10 ----------     1011
+MESSAGE  8;(08,10)      10 ----------     4123
+MESSAGE  9;(08,10)       8 ----------    12116
+MESSAGE 10;(08,10)       7 ----------    29431
+MESSAGE 11;(08,10)       5 ----------    87602
+MESSAGE Nodes=15757691, Time=87602ms, speed=179878, depth=11-27, Evaluation=5
+2607655ms
+(26) MESSAGE depth 1-31 ev 85.0 n 2421509 n/s 15931 tm 151995 pv Xh7 Ol13 Xl14 Oo11 Xo13 Oh8 Xf9 Oh9 Xi8 Og6 Xe10 Oi6 Xf11 Ok6 Xk5 Og12 Xf10 Of8 Xd11 Og8 Xe11 Og11 Xc13 Od12 Xc12 Ob13 Xc11 Ob11 Xc10 Oj6 Xc14
+2508158ms
+(27) MESSAGE Expected time=186056ms
+MESSAGE  1;(08,08)       9 ----------        2
+MESSAGE 10;(08,08)       7 ----------     4350
+MESSAGE 11;(08,08)       4 ----------   124888
+MESSAGE Nodes=21956776, Time=124888ms, speed=175811, depth=11-28, Evaluation=4
+2735457ms
+(28) MESSAGE depth 1-27 ev 89.6 n 2533095 n/s 17567 tm 144188 pv Xh9 Ol13 Xl14 Oi9 Xh8 Oh10 Xf10 Ok6 Xk5 Oe11 Xf7 Om7 Xg8 Oe6 Xi7 Ol7 Xn7 Oo13 Xn12 Om8 Xh6 Oh5 Xg5 Of4 Xg7 Oe7 Xg6
+2654631ms
+(29) MESSAGE Expected time=177536ms
+MESSAGE  1;(09,05)       8 ----------        3
+MESSAGE 10;(09,05)       7 ----------     3694
+MESSAGE 11;(09,05)       4 ----------    95066
+MESSAGE Nodes=16278433, Time=95066ms, speed=171232, depth=11-24, Evaluation=4
+2843712ms
+(30) MESSAGE depth 1-27 ev 94.5 n 3348882 n/s 24464 tm 136885 pv Xh10 Oh8 Xh12 Oh13 Xf12 Ok6 Xk5 Og12 Xg11 Oi9 Xe9 Of10 Xe11 Ol14 Xl13 Om4 Xl5 Of11 Xe10 Of8 Xf7 Oe8 Xg8 Oe6 Xe13 Od14 Xe12
+2793791ms
+(31) MESSAGE Expected time=170319ms
+MESSAGE  1;(08,07)       0 ----------        1
+MESSAGE Nodes=1, Time=1ms, speed=1000, depth=1-0, Evaluation=0
+2847265ms
+(32) MESSAGE depth 1-23 ev 94.6 n 3192332 n/s 24560 tm 129980 pv Xh12 Oh13 Xf12 Ok6 Xk5 Og12 Xg11 Oi9 Xe9 Ol13 Xl14 Of10 Xe13 Od14 Xe11 Of11 Xe10 Oe12 Xe7 Oe8 Xf8 Od6 Xi11
+2925858ms
+(33) MESSAGE Expected time=170082ms
+MESSAGE  1;(13,07)       0 ----------        1
+MESSAGE Nodes=1, Time=1ms, speed=1000, depth=1-0, Evaluation=0
+2850646ms
+(34) MESSAGE depth 1-27 ev 94.9 n 3052397 n/s 24740 tm 123375 pv Xf12 Ok6 Xk5 Og12 Xg11 Oi9 Xe9 Ol13 Xl14 Of10 Xe11 Ol5 Xm4 Of11 Xe10 Of8 Xf7 Oo13 Xn12 Oe12 Xe7 Oe8 Xg8 Oe6 Xg7 Od7 Xi7
+3051627ms
+(35) MESSAGE Expected time=169856ms
+MESSAGE  1;(13,11)      15 ----------       22
+MESSAGE  2;(13,11)      15 ----------       22
+MESSAGE  3;(13,11)      12 ----------       33
+MESSAGE  4;(12,06)      18 ----------       67
+MESSAGE  5;(12,06)      19 ----------      138
+MESSAGE  6;(12,06)      11 ----------      424
+MESSAGE  7;(12,06)      14 ----------      980
+MESSAGE  8;(12,06)      11 ----------     1872
+MESSAGE  9;(12,06)      14 ----------     4867
+MESSAGE 10;(06,10)     -41 ----------    39854
+MESSAGE 11;(06,10)     -68 ----------    62886
+MESSAGE 12;(06,10)  -19961 ----------    64390
+MESSAGE Nodes=11869473, Time=64390ms, speed=184337, depth=12-27, Evaluation=-19961
+2918244ms
+(36) 3053209ms
+(37) MESSAGE Expected time=165350ms
+MESSAGE  1;(12,06)  -19957 ----------       23
+MESSAGE Nodes=1, Time=23ms, speed=43, depth=1-0, Evaluation=-19957
+2921500ms
+(38) MESSAGE depth 1-15 ev 98.4 n 5003870 n/s 42777 tm 116973 pv Xg11 Oi9 Xe9 Of10 Xi11 Oj12 Xe11 Of11 Xe13 Od14 Xe10 Oe12 Xe7 Of8 Xe8
+3172401ms
+(39) MESSAGE Expected time=165133ms
+MESSAGE  1;(09,08)  -19960 ----------        2
+MESSAGE Nodes=1, Time=2ms, speed=500, depth=1-0, Evaluation=-19960
+2925427ms
+(40) MESSAGE depth 1-15 ev 98.5 n 5652784 n/s 50894 tm 111068 pv Xe13 Od14 Xe9 Ol13 Xl14 Of10 Xe11 Of11 Xe10 Oe12 Xe7 Oe8 Xf8 Oi11 Xd6
+3285530ms
+(41) MESSAGE Expected time=164871ms
+MESSAGE  1;(14,03)       0 ----------        1
+MESSAGE Nodes=1, Time=1ms, speed=1000, depth=1-0, Evaluation=0
+2929104ms
+(42) MESSAGE depth 1-13 ev 98.8 n 5723759 n/s 54323 tm 105364 pv Xe9 Ol13 Xl14 Of10 Xe11 Of11 Xe10 Oe12 Xe7 Oe8 Xf8 Od6 Xi11
+3393316ms
+(43) MESSAGE Expected time=164626ms
+MESSAGE  1;(13,11)      22 ----------        4
+MESSAGE  2;(13,11)      22 ----------        5
+MESSAGE  3;(13,11)       8 ----------        8
+MESSAGE  4;(13,11)      10 ----------       15
+MESSAGE  5;(05,11)     -24 ----------       43
+MESSAGE  6;(05,11)     -45 ----------       94
+MESSAGE  7;(13,11)     -99 ----------      425
+MESSAGE  8;(04,12)  -19973 ----------      430
+MESSAGE Nodes=80523, Time=430ms, speed=187262, depth=8-17, Evaluation=-19973
+2937485ms
+(44) 3395165ms
+(45) MESSAGE Expected time=164067ms
+MESSAGE  1;(-1,00)  -19968 ----------        4
+MESSAGE Nodes=1, Time=4ms, speed=250, depth=1-0, Evaluation=-19968
+MESSAGE Er...
+2942256ms
+(46) MESSAGE depth 1-9 ev 99.7 n 13112580 n/s 131175 tm 99962 pv Xi11 Oj12 Xe11 Of11 Xe10 Oe12 Xe7 Oe8 Xf8
+3497434ms
+(47) MESSAGE Expected time=163749ms
+MESSAGE  1;(-1,00)  -19977 ----------        1
+MESSAGE Nodes=1, Time=1ms, speed=1000, depth=1-0, Evaluation=-19977
+MESSAGE Er...
+2946401ms
+(48) MESSAGE depth 1-7 ev 99.9 n 44382337 n/s 467883 tm 94857 pv Xe11 Of11 Xe10 Oe12 Xe7 Of8 Xe8
+3594750ms
+(49) MESSAGE Expected time=163473ms
+MESSAGE  1;(-1,00)  -19980 ----------        1
+MESSAGE Nodes=1, Time=1ms, speed=1000, depth=1-0, Evaluation=-19980
+MESSAGE Er...
+2950844ms
+(50) MESSAGE depth 1-5 ev 99.9 n 48551040 n/s 539725 tm 89955 pv Xe10 Oe12 Xe7 Oe8 Xf8
+3687332ms
+(51) MESSAGE Expected time=163177ms
+MESSAGE  1;(-1,00)  -19981 ----------        1
+MESSAGE Nodes=1, Time=1ms, speed=1000, depth=1-0, Evaluation=-19981
+MESSAGE Er...
+2954740ms
+(52) MESSAGE depth 1-3 ev 99.9 n 56402560 n/s 660829 tm 85351 pv Xe7 Of8 Xe8
+3774946ms
+(53) MESSAGE Expected time=162917ms
+MESSAGE  1;(-1,00)  -19984 ----------        0
+MESSAGE Nodes=1, Time=0ms, speed=0, depth=1-0, Evaluation=-19984
+MESSAGE Er...
+2959105ms
+(54) 3776608ms
+
+--> C:\gomocupswap2\server\result\ExperimentalJ\0_1_0_2.psq
+

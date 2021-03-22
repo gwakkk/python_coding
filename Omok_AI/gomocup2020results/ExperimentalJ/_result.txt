@@ -1,0 +1,10 @@
+1. ALPHAGOMOKU.MK20.E 1660
+    wins: 1+1, losses: 0+0, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 3409s, time/turn: 126264ms, move/game: 27
+
+2. SLOWRENJU20.E 1540
+    wins: 0+0, losses: 1+1, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 3879s, time/turn: 141044ms, move/game: 28
+

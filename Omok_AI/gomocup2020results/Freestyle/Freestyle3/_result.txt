@@ -1,0 +1,80 @@
+1. EULRING 1895
+    wins: 160+143, losses: 20+37, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 69s, time/turn: 4835ms, move/game: 14
+
+2. JUDE 1778
+    wins: 136+130, losses: 44+50, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 35s, time/turn: 1890ms, move/game: 18
+
+3. SPARKLE 1760
+    wins: 132+128, losses: 48+52, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 30s, time/turn: 1442ms, move/game: 21
+
+4. PECUCHET 1740
+    wins: 137+113, losses: 43+67, draws: 0+0
+    timeouts: 0, errors: 5, total games: 360
+    time/game: 39s, time/turn: 2552ms, move/game: 15
+
+5. MONKEY 1671
+    wins: 115+107, losses: 65+73, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 94s, time/turn: 5202ms, move/game: 18
+
+6. QMENTAT6 1643
+    wins: 113+91, losses: 66+87, draws: 1+2
+    timeouts: 0, errors: 7, total games: 360
+    time/game: 36s, time/turn: 1143ms, move/game: 31
+
+7. DJALL18 1635
+    wins: 107+94, losses: 69+79, draws: 4+7
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 2s, time/turn: 61ms, move/game: 37
+
+8. PUREGM20 1632
+    wins: 108+90, losses: 71+89, draws: 1+1
+    timeouts: 0, errors: 5, total games: 360
+    time/game: 82s, time/turn: 3596ms, move/game: 23
+
+9. IMRO15 1582
+    wins: 100+74, losses: 75+101, draws: 5+5
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 6ms, move/game: 33
+
+10. NOESIS 1527
+    wins: 118+28, losses: 62+150, draws: 0+2
+    timeouts: 0, errors: 22, total games: 360
+    time/game: 43s, time/turn: 1386ms, move/game: 31
+
+11. FASTGOMOKU14 1515
+    wins: 81+63, losses: 92+113, draws: 7+4
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 2ms, move/game: 34
+
+12. PUSKVOREC 1507
+    wins: 76+72, losses: 104+108, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 14s, time/turn: 1027ms, move/game: 14
+
+13. PISQ7 1428
+    wins: 69+42, losses: 111+138, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 12s, time/turn: 655ms, move/game: 18
+
+14. LICHT 1372
+    wins: 52+25, losses: 128+155, draws: 0+0
+    timeouts: 0, errors: 2, total games: 360
+    time/game: 158s, time/turn: 16923ms, move/game: 9
+
+15. LIGHTBLUE 1314
+    wins: 45+29, losses: 134+151, draws: 1+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 8ms, move/game: 27
+
+16. BENJAMIN -
+    wins: 50+30, losses: 127+149, draws: 3+1
+    timeouts: 0, errors: 41, total games: 360
+    time/game: 39s, time/turn: 752ms, move/game: 52
+

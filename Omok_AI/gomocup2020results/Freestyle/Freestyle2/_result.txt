@@ -1,0 +1,80 @@
+1. PENTAZEN20.20 2163
+    wins: 175+170, losses: 5+10, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 64s, time/turn: 3587ms, move/game: 18
+
+2. TITO14 1868
+    wins: 149+135, losses: 31+45, draws: 0+0
+    timeouts: 0, errors: 17, total games: 360
+    time/game: 32s, time/turn: 1846ms, move/game: 18
+
+3. GOFIVE 1751
+    wins: 124+120, losses: 56+60, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 78s, time/turn: 4209ms, move/game: 19
+
+4. SWINE17 1749
+    wins: 120+123, losses: 60+57, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 62s, time/turn: 3047ms, move/game: 20
+
+5. CARBON17 1738
+    wins: 119+120, losses: 61+60, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 95s, time/turn: 4880ms, move/game: 19
+
+6. ONIX16 1730
+    wins: 114+122, losses: 66+58, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 21s, time/turn: 1033ms, move/game: 20
+
+7. EGO19 1627
+    wins: 100+94, losses: 80+86, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 97s, time/turn: 4543ms, move/game: 21
+
+8. PELA17 1599
+    wins: 87+95, losses: 93+85, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 121s, time/turn: 4717ms, move/game: 26
+
+9. GMOTOR11 1575
+    wins: 86+86, losses: 94+94, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 55s, time/turn: 2958ms, move/game: 19
+
+10. KANEC09 1572
+    wins: 84+87, losses: 96+93, draws: 0+0
+    timeouts: 0, errors: 3, total games: 360
+    time/game: 77s, time/turn: 3524ms, move/game: 22
+
+11. CHIS17 1537
+    wins: 75+81, losses: 105+99, draws: 0+0
+    timeouts: 0, errors: 2, total games: 360
+    time/game: 60s, time/turn: 3283ms, move/game: 18
+
+12. ZETOR17 1470
+    wins: 70+59, losses: 110+121, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 68s, time/turn: 3802ms, move/game: 18
+
+13. EULRING 1372
+    wins: 49+43, losses: 131+137, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 94s, time/turn: 5646ms, move/game: 17
+
+14. PECUCHET 1351
+    wins: 49+36, losses: 131+144, draws: 0+0
+    timeouts: 0, errors: 6, total games: 360
+    time/game: 41s, time/turn: 2543ms, move/game: 16
+
+15. SPARKLE 1256
+    wins: 25+31, losses: 155+149, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 21s, time/turn: 1290ms, move/game: 17
+
+16. JUDE 1241
+    wins: 23+29, losses: 157+151, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 24s, time/turn: 1510ms, move/game: 16
+

@@ -1,0 +1,956 @@
+(1) (2) (3) 12645ms
+(3-stay with its color) (4) MESSAGE SlowRenju 5.1.4 is ready.
+MESSAGE Expected time=359900ms
+MESSAGE  1;(05,12)       9 ----------        1
+MESSAGE  2;(05,12)       9 ----------        1
+MESSAGE  3;(05,12)       3 ----------       16
+MESSAGE  4;(06,10)       4 ----------       37
+MESSAGE  5;(09,10)       2 ----------      251
+MESSAGE  6;(09,10)       2 ----------      431
+MESSAGE  7;(06,10)       3 ----------     1590
+MESSAGE  8;(04,11)       3 ----------     4543
+MESSAGE  9;(08,10)       3 ----------    15891
+MESSAGE 10;(05,10)       5 ----------    72486
+MESSAGE 11;(05,10)       7 ----------   146786
+MESSAGE 12;(05,10)       6 ----------   318638
+MESSAGE Nodes=59688722, Time=318638ms, speed=187324, depth=12-23, Evaluation=6
+12645ms
+(5) 287617ms
+(6) MESSAGE Expected time=337746ms
+MESSAGE  1;(04,09)       8 ----------        1
+MESSAGE  2;(04,09)       8 ----------        1
+MESSAGE  3;(04,09)       7 ----------        9
+MESSAGE  4;(04,09)      10 ----------       19
+MESSAGE  5;(04,09)      10 ----------       50
+MESSAGE  6;(04,09)      11 ----------      133
+MESSAGE  7;(04,09)       8 ----------      300
+MESSAGE  8;(04,09)      10 ----------     1108
+MESSAGE  9;(04,09)       6 ----------     6285
+MESSAGE 10;(04,09)       9 ----------    13567
+MESSAGE 11;(04,10)       7 ----------   132346
+MESSAGE 12;(04,10)       7 ----------   265734
+MESSAGE Nodes=48414283, Time=265734ms, speed=182190, depth=12-24, Evaluation=7
+605101ms
+(7) 545808ms
+(8) MESSAGE Expected time=319559ms
+MESSAGE  1;(04,09)      11 ----------        1
+MESSAGE 11;(04,09)       6 ----------    24574
+MESSAGE 12;(04,09)      10 ----------    50354
+MESSAGE 13;(04,09)      10 ----------   144006
+MESSAGE Nodes=25903227, Time=144006ms, speed=179876, depth=13-28, Evaluation=10
+752356ms
+(9) 745062ms
+(10) MESSAGE Expected time=309742ms
+MESSAGE  1;(05,09)      11 ----------        0
+MESSAGE 12;(03,08)       8 ----------    48210
+MESSAGE 13;(03,08)      10 ----------   110875
+MESSAGE 14;(03,08)      10 ----------   299416
+MESSAGE Nodes=51613335, Time=299416ms, speed=172380, depth=14-32, Evaluation=10
+1054764ms
+(11) 855128ms
+(12) MESSAGE Expected time=289582ms
+MESSAGE  1;(06,08)      12 ----------        1
+MESSAGE 14;(06,08)      12 ----------   289582
+MESSAGE Nodes=50780432, Time=289582ms, speed=175357, depth=13-1, Evaluation=12
+1347236ms
+(13) 1085085ms
+(14) MESSAGE Expected time=270084ms
+MESSAGE  1;(07,11)      10 ----------        5
+MESSAGE  2;(07,11)      10 ----------        5
+MESSAGE  3;(07,11)      10 ----------        8
+MESSAGE  4;(07,11)      10 ----------        8
+MESSAGE  5;(07,11)      10 ----------       17
+MESSAGE  6;(07,11)      10 ----------       28
+MESSAGE  7;(07,11)      10 ----------       74
+MESSAGE  8;(07,11)      10 ----------      131
+MESSAGE  9;(07,11)      10 ----------      448
+MESSAGE 10;(07,11)      10 ----------     1588
+MESSAGE 11;(07,11)      10 ----------     5014
+MESSAGE 12;(07,11)      10 ----------     9093
+MESSAGE 13;(07,11)      10 ----------    22163
+MESSAGE 14;(07,11)      10 ----------   270084
+MESSAGE Nodes=47672316, Time=270084ms, speed=176509, depth=13-30, Evaluation=10
+1620098ms
+(15) 1303511ms
+(16) MESSAGE Expected time=251893ms
+MESSAGE  1;(07,09)       8 ----------        1
+MESSAGE  2;(03,10)      -1 ----------        2
+MESSAGE  3;(03,10)       5 ----------        6
+MESSAGE  4;(03,10)       5 ----------       17
+MESSAGE  5;(03,10)      10 ----------       70
+MESSAGE  6;(03,10)       7 ----------      262
+MESSAGE  7;(07,10)      12 ----------     1058
+MESSAGE  8;(07,10)      12 ----------     1577
+MESSAGE  9;(07,10)      11 ----------     3270
+MESSAGE 10;(07,10)      12 ----------     6891
+MESSAGE 11;(07,10)      11 ----------    21025
+MESSAGE 12;(07,10)      10 ----------    56606
+MESSAGE 13;(07,10)       9 ----------   174309
+MESSAGE Nodes=30978909, Time=174309ms, speed=177724, depth=13-31, Evaluation=9
+1797275ms
+(17) 1510952ms
+(18) MESSAGE Expected time=240081ms
+MESSAGE  1;(09,09)       9 ----------        1
+MESSAGE Nodes=12, Time=1ms, speed=12000, depth=11-0, Evaluation=9
+1800561ms
+(19) 1708096ms
+(20) MESSAGE Expected time=239862ms
+MESSAGE  1;(05,11)       9 ----------        0
+MESSAGE 10;(05,11)       6 ----------     2059
+MESSAGE 11;(08,08)       7 ----------   114267
+MESSAGE 12;(08,08)      12 ----------   196932
+MESSAGE Nodes=34110400, Time=196932ms, speed=173209, depth=12-28, Evaluation=12
+2000205ms
+(21) 1895444ms
+(22) MESSAGE Expected time=226553ms
+MESSAGE  1;(11,12)      11 ----------        2
+MESSAGE 11;(11,12)      10 ----------    65487
+MESSAGE 12;(11,12)       9 ----------   187575
+MESSAGE Nodes=32344935, Time=187575ms, speed=172437, depth=12-29, Evaluation=9
+2190599ms
+(23) 2073213ms
+(24) MESSAGE Expected time=213860ms
+MESSAGE  1;(11,10)       2 ----------        0
+MESSAGE  2;(11,10)       9 ----------        0
+MESSAGE  3;(11,10)       5 ----------        2
+MESSAGE  4;(11,10)       5 ----------        3
+MESSAGE  5;(11,10)       8 ----------       11
+MESSAGE  6;(11,10)       4 ----------       67
+MESSAGE  7;(11,10)      10 ----------      126
+MESSAGE  8;(11,10)       8 ----------      349
+MESSAGE  9;(11,10)       7 ----------      893
+MESSAGE 10;(11,10)      10 ----------    12039
+MESSAGE 11;(11,10)      12 ----------    35290
+MESSAGE 12;(11,10)      13 ----------    90975
+MESSAGE Nodes=16344569, Time=90975ms, speed=179660, depth=12-26, Evaluation=13
+2284682ms
+(25) 2234374ms
+(26) MESSAGE Expected time=207587ms
+MESSAGE  1;(10,09)       5 ----------        4
+MESSAGE  2;(10,09)       5 ----------        4
+MESSAGE  3;(10,09)      12 ----------        7
+MESSAGE  4;(10,09)      10 ----------        9
+MESSAGE  5;(10,09)      13 ----------       35
+MESSAGE  6;(10,09)      15 ----------       73
+MESSAGE  7;(10,09)      14 ----------      162
+MESSAGE  8;(10,09)       8 ----------      874
+MESSAGE  9;(10,09)       5 ----------     5307
+MESSAGE 10;(10,09)       6 ----------    16676
+MESSAGE 11;(10,09)       2 ----------    74106
+MESSAGE Nodes=13295876, Time=74106ms, speed=179416, depth=11-25, Evaluation=2
+2361797ms
+(27) 2395285ms
+(28) MESSAGE Expected time=202446ms
+MESSAGE  1;(09,11)       5 ----------        1
+MESSAGE 10;(07,06)       7 ----------     3473
+MESSAGE 11;(07,06)       4 ----------    28346
+MESSAGE 12;(07,06)       1 ----------   162763
+MESSAGE Nodes=28351957, Time=162763ms, speed=174191, depth=12-27, Evaluation=1
+2527691ms
+(29) 2548429ms
+(30) MESSAGE Expected time=191387ms
+MESSAGE  1;(07,08)      -2 ----------        1
+MESSAGE Nodes=11, Time=1ms, speed=11000, depth=10-0, Evaluation=-2
+2531477ms
+(31) 2693558ms
+(32) MESSAGE Expected time=191134ms
+MESSAGE  1;(09,11)      -2 ----------        0
+MESSAGE  9;(09,11)      -4 ----------      928
+MESSAGE 10;(09,11)      -2 ----------    13825
+MESSAGE 11;(09,11)      -2 ----------    48815
+MESSAGE 12;(09,11)       0 ----------   191135
+MESSAGE Nodes=33299168, Time=191135ms, speed=174218, depth=11-25, Evaluation=0
+2725917ms
+(33) 2831515ms
+(34) MESSAGE Expected time=178172ms
+MESSAGE  1;(13,11)       7 ----------        0
+MESSAGE 11;(13,11)       9 ----------    24148
+MESSAGE 12;(13,11)       9 ----------   146386
+MESSAGE Nodes=25282825, Time=146386ms, speed=172713, depth=12-28, Evaluation=9
+2875265ms
+(35) 2962769ms
+(36) MESSAGE Expected time=168215ms
+MESSAGE  1;(06,06)       2 ----------        1
+MESSAGE  2;(13,09)      -3 ----------        2
+MESSAGE  3;(13,09)       4 ----------        3
+MESSAGE  4;(13,09)      -2 ----------       10
+MESSAGE  5;(12,10)       8 ----------       91
+MESSAGE  6;(12,10)       5 ----------      143
+MESSAGE  7;(12,10)       1 ----------      304
+MESSAGE  8;(12,10)       8 ----------      507
+MESSAGE  9;(12,10)      10 ----------     2143
+MESSAGE 10;(12,10)       9 ----------     7183
+MESSAGE 11;(12,10)      11 ----------    23898
+MESSAGE 12;(12,10)       9 ----------   104796
+MESSAGE Nodes=18826448, Time=104796ms, speed=179648, depth=12-27, Evaluation=9
+2983738ms
+(37) 3060117ms
+(38) MESSAGE Expected time=160984ms
+MESSAGE  1;(03,10)       7 ----------        0
+MESSAGE  2;(03,07)       3 ----------        1
+MESSAGE  3;(03,07)       3 ----------        2
+MESSAGE  4;(03,10)       8 ----------        4
+MESSAGE  5;(03,07)      14 ----------       37
+MESSAGE  6;(03,07)      14 ----------       63
+MESSAGE  7;(03,07)      14 ----------      243
+MESSAGE  8;(03,07)      14 ----------     1219
+MESSAGE  9;(03,07)      11 ----------     2575
+MESSAGE 10;(03,07)      12 ----------    10844
+MESSAGE 11;(03,07)      17 ----------    20045
+MESSAGE 12;(03,07)      15 ----------    43558
+MESSAGE 13;(03,07)      15 ----------   160985
+MESSAGE Nodes=29918809, Time=160985ms, speed=185848, depth=12-26, Evaluation=15
+3147616ms
+(39) 3179511ms
+(40) MESSAGE Expected time=150058ms
+MESSAGE  1;(07,05)      19 ----------        1
+MESSAGE 12;(07,05)      19 ----------    55673
+MESSAGE Nodes=9616184, Time=55673ms, speed=172726, depth=12-31, Evaluation=19
+3206229ms
+(41) 3293391ms
+(42) MESSAGE Expected time=146151ms
+MESSAGE  1;(04,07)       5 ----------        1
+MESSAGE  2;(02,10)      14 ----------        2
+MESSAGE  3;(02,10)      15 ----------        4
+MESSAGE  4;(02,10)      16 ----------        8
+MESSAGE  5;(02,10)      15 ----------       27
+MESSAGE  6;(02,10)      17 ----------       52
+MESSAGE  7;(02,10)      14 ----------      181
+MESSAGE  8;(02,10)      14 ----------      463
+MESSAGE  9;(02,10)      19 ----------     1469
+MESSAGE 10;(02,10)      14 ----------     7128
+MESSAGE 11;(02,10)       7 ----------    28510
+MESSAGE 12;(02,10)       9 ----------    61966
+MESSAGE Nodes=11507013, Time=61966ms, speed=185698, depth=12-30, Evaluation=9
+3271813ms
+(43) 3401504ms
+(44) MESSAGE Expected time=141779ms
+MESSAGE  1;(03,10)      11 ----------        1
+MESSAGE 11;(03,10)       5 ----------    97531
+MESSAGE 12;(03,10)       5 ----------   225089
+MESSAGE Nodes=39907743, Time=225089ms, speed=177297, depth=12-32, Evaluation=5
+3500004ms
+(45) 3405399ms
+(46) MESSAGE Expected time=126566ms
+MESSAGE  1;(02,11)      11 ----------        1
+MESSAGE 11;(02,11)       8 ----------    21187
+MESSAGE 12;(02,11)       5 ----------   126567
+MESSAGE Nodes=22865999, Time=126567ms, speed=180663, depth=11-24, Evaluation=5
+3629931ms
+(47) 3478965ms
+(48) MESSAGE Expected time=117904ms
+MESSAGE  1;(04,11)      10 ----------        1
+MESSAGE 11;(06,04)       7 ----------    96671
+MESSAGE Nodes=17487007, Time=96671ms, speed=180891, depth=11-28, Evaluation=7
+3729404ms
+(49) 3514532ms
+(50) MESSAGE Expected time=111273ms
+MESSAGE  1;(02,07)       4 ----------        4
+MESSAGE  2;(02,07)       4 ----------        4
+MESSAGE  3;(01,09)       5 ----------       13
+MESSAGE  4;(01,13)       6 ----------       33
+MESSAGE  5;(01,13)       3 ----------       70
+MESSAGE  6;(01,09)       2 ----------      174
+MESSAGE  7;(01,13)       5 ----------      958
+MESSAGE  8;(01,09)       6 ----------     2973
+MESSAGE  9;(01,09)       7 ----------     8243
+MESSAGE 10;(01,13)       6 ----------    41169
+MESSAGE 11;(01,09)       4 ----------    91777
+MESSAGE Nodes=16582059, Time=91777ms, speed=180677, depth=11-29, Evaluation=4
+3823955ms
+(51) 3594052ms
+(52) MESSAGE Expected time=104969ms
+MESSAGE  1;(05,04)       6 ----------        4
+MESSAGE 10;(05,04)       5 ----------        7
+MESSAGE 11;(05,04)      -2 ----------    53158
+MESSAGE 12;(05,04)       2 ----------   168626
+MESSAGE Nodes=29460697, Time=168626ms, speed=174710, depth=12-31, Evaluation=2
+3995522ms
+(53) 3687182ms
+(54) MESSAGE Expected time=93531ms
+MESSAGE  1;(02,07)      18 ----------        6
+MESSAGE  2;(02,07)      18 ----------        7
+MESSAGE  3;(06,05)      28 ----------       18
+MESSAGE  4;(06,05)      28 ----------       22
+MESSAGE  5;(06,05)      26 ----------      124
+MESSAGE  6;(06,05)      29 ----------      206
+MESSAGE  7;(06,05)      29 ----------      691
+MESSAGE  8;(06,05)      31 ----------     2461
+MESSAGE  9;(06,05)      20 ----------    10792
+MESSAGE 10;(06,05)      16 ----------    25052
+MESSAGE 11;(06,05)      13 ----------    62136
+MESSAGE Nodes=11880878, Time=62136ms, speed=191207, depth=11-30, Evaluation=13
+4060605ms
+(55) 3775576ms
+(56) MESSAGE Expected time=89193ms
+MESSAGE  1;(06,03)      19 ----------        3
+MESSAGE 10;(06,03)      16 ----------      616
+MESSAGE 11;(06,03)      13 ----------    46137
+MESSAGE Nodes=8477913, Time=46137ms, speed=183755, depth=11-29, Evaluation=13
+4109767ms
+(57) 3859316ms
+(58) MESSAGE Expected time=85915ms
+MESSAGE  1;(02,09)      18 ----------        6
+MESSAGE 10;(04,12)      10 ----------    31388
+MESSAGE 11;(02,09)       5 ----------   184219
+MESSAGE Nodes=33810641, Time=184219ms, speed=183535, depth=10-26, Evaluation=5
+4296895ms
+(59) 3939039ms
+(60) MESSAGE Expected time=73440ms
+MESSAGE  1;(00,07)      13 ----------        6
+MESSAGE 10;(00,07)       8 ----------    14050
+MESSAGE 11;(00,07)      -3 ----------   125452
+MESSAGE Nodes=23134553, Time=125452ms, speed=184409, depth=11-28, Evaluation=-3
+4425135ms
+(61) 4014825ms
+(62) MESSAGE Expected time=64891ms
+MESSAGE  1;(03,04)       5 ----------        6
+MESSAGE  2;(02,07)      -1 ----------        8
+MESSAGE  3;(02,07)      -1 ----------       11
+MESSAGE  4;(02,07)     -22 ----------       44
+MESSAGE  5;(03,04)     -22 ----------      141
+MESSAGE  6;(04,04)     -36 ----------      706
+MESSAGE  7;(04,04)     -38 ----------     1512
+MESSAGE  8;(04,04)     -39 ----------     3521
+MESSAGE  9;(04,04)     -41 ----------     7338
+MESSAGE 10;(04,04)     -43 ----------    19613
+MESSAGE 11;(04,04)     -46 ----------    57368
+MESSAGE Nodes=11053560, Time=57368ms, speed=192678, depth=11-26, Evaluation=-46
+4485422ms
+(63) 4086658ms
+(64) MESSAGE Expected time=60871ms
+MESSAGE  1;(05,02)     -44 ----------        3
+MESSAGE 10;(04,05)     -54 ----------    60871
+MESSAGE Nodes=11372463, Time=60871ms, speed=186828, depth=9-0, Evaluation=-54
+4549427ms
+(65) 4154912ms
+(66) MESSAGE Expected time=56604ms
+MESSAGE  1;(05,02)     -49 ----------       61
+MESSAGE  9;(02,05)     -54 ----------    26026
+MESSAGE 10;(02,05)     -50 ----------    51610
+MESSAGE Nodes=9559023, Time=51610ms, speed=185216, depth=10-24, Evaluation=-50
+4604729ms
+(67) 4219823ms
+(68) MESSAGE Expected time=52918ms
+MESSAGE  1;(01,07)     -23 ----------        4
+MESSAGE  2;(08,02)     -35 ----------        5
+MESSAGE  3;(08,02)     -38 ----------        8
+MESSAGE  4;(08,02)     -44 ----------       19
+MESSAGE  5;(08,02)     -44 ----------       51
+MESSAGE  6;(08,02)     -44 ----------      112
+MESSAGE  7;(08,02)     -52 ----------      701
+MESSAGE  8;(09,04)     -51 ----------     4795
+MESSAGE  9;(09,04)     -54 ----------    10734
+MESSAGE 10;(09,04)     -61 ----------    32600
+MESSAGE 11;(09,04)     -64 ----------    71779
+MESSAGE Nodes=13537914, Time=71779ms, speed=188605, depth=11-26, Evaluation=-64
+4679452ms
+(69) 4281702ms
+(70) MESSAGE Expected time=47936ms
+MESSAGE  1;(08,05)     -37 ----------        7
+MESSAGE  2;(08,05)     -37 ----------        8
+MESSAGE  3;(08,05)     -43 ----------       10
+MESSAGE  4;(08,05)     -51 ----------       13
+MESSAGE  5;(08,05)     -51 ----------       28
+MESSAGE  6;(08,05)     -53 ----------       63
+MESSAGE  7;(08,05)     -53 ----------      194
+MESSAGE  8;(08,05)     -54 ----------     1299
+MESSAGE  9;(08,05)     -60 ----------     4190
+MESSAGE 10;(08,05)     -63 ----------    15100
+MESSAGE 11;(08,05)     -69 ----------    47937
+MESSAGE Nodes=9069047, Time=47937ms, speed=189186, depth=10-24, Evaluation=-69
+4729941ms
+(71) 4340206ms
+(72) MESSAGE Expected time=44570ms
+MESSAGE  1;(08,00)     -69 ----------        2
+MESSAGE Nodes=10, Time=2ms, speed=5000, depth=9-0, Evaluation=-69
+4733836ms
+(73) 4395837ms
+(74) MESSAGE Expected time=44310ms
+MESSAGE  1;(07,03)     -48 ----------        9
+MESSAGE  2;(07,03)     -48 ----------        9
+MESSAGE  3;(07,03)     -57 ----------       16
+MESSAGE  4;(07,03)     -57 ----------       31
+MESSAGE  5;(07,03)     -66 ----------       82
+MESSAGE  6;(07,03)     -66 ----------      177
+MESSAGE  7;(07,03)     -66 ----------      535
+MESSAGE  8;(07,03)     -66 ----------     1456
+MESSAGE  9;(07,03)     -66 ----------     7303
+MESSAGE 10;(07,03)     -87 ----------    44310
+MESSAGE Nodes=8545407, Time=44310ms, speed=192855, depth=9-21, Evaluation=-87
+4780842ms
+(75) 4431404ms
+(76) MESSAGE Expected time=41177ms
+MESSAGE  1;(07,02)     -52 ----------       12
+MESSAGE  2;(07,02)     -52 ----------       12
+MESSAGE  3;(07,02)     -46 ----------       24
+MESSAGE  4;(07,02)     -46 ----------       41
+MESSAGE  5;(07,02)     -50 ----------      223
+MESSAGE  6;(09,02)     -54 ----------     1041
+MESSAGE  7;(09,02)     -50 ----------     2483
+MESSAGE  8;(09,02)     -56 ----------     7254
+MESSAGE  9;(07,02)     -70 ----------    34709
+MESSAGE Nodes=6785965, Time=34709ms, speed=195510, depth=9-22, Evaluation=-70
+4818284ms
+(77) 4482455ms
+(78) MESSAGE Expected time=38681ms
+MESSAGE  1;(01,07)     -46 ----------        4
+MESSAGE  2;(01,05)     -57 ----------        5
+MESSAGE  3;(01,05)     -58 ----------        7
+MESSAGE  4;(01,05)     -65 ----------       19
+MESSAGE  5;(02,07)     -68 ----------       77
+MESSAGE  6;(01,07)     -68 ----------      282
+MESSAGE  7;(01,07)     -79 ----------     1130
+MESSAGE  8;(01,07)     -89 ----------     4432
+MESSAGE  9;(01,07)     -91 ----------     7690
+MESSAGE 10;(01,07)     -99 ----------    23934
+MESSAGE 11;(01,07)    -105 ----------    83003
+MESSAGE Nodes=15335608, Time=83003ms, speed=184759, depth=10-22, Evaluation=-105
+4904257ms
+(79) 4530961ms
+(80) MESSAGE Expected time=32949ms
+MESSAGE  1;(09,03)    -101 ----------        4
+MESSAGE 10;(09,03)    -112 ----------    32949
+MESSAGE Nodes=6126152, Time=32949ms, speed=185928, depth=9-0, Evaluation=-112
+4940013ms
+(81) 4557591ms
+(82) MESSAGE Expected time=30565ms
+MESSAGE  1;(07,00)     -73 ----------      712
+MESSAGE  2;(07,00)     -73 ----------      713
+MESSAGE  3;(07,00)     -74 ----------      726
+MESSAGE  4;(09,02)     -92 ----------      772
+MESSAGE  5;(09,02)     -93 ----------      866
+MESSAGE  6;(11,00)    -102 ----------     1869
+MESSAGE  7;(09,02)    -109 ----------     5366
+MESSAGE  8;(09,02)    -114 ----------     7764
+MESSAGE  9;(04,07)    -120 ----------    24611
+MESSAGE Nodes=4601948, Time=24611ms, speed=186987, depth=9-21, Evaluation=-120
+4967269ms
+(83) 4561347ms
+(84) MESSAGE Expected time=28748ms
+MESSAGE  1;(09,02)    -114 ----------      701
+MESSAGE  9;(09,02)    -119 ----------    27769
+MESSAGE Nodes=4795537, Time=27769ms, speed=172693, depth=9-23, Evaluation=-119
+4998102ms
+(85) 4606102ms
+(86) MESSAGE Expected time=26693ms
+MESSAGE  1;(07,01)    -116 ----------        7
+MESSAGE  8;(07,01)    -120 ----------     2550
+MESSAGE  9;(07,01)    -122 ----------    13456
+MESSAGE Nodes=2655083, Time=13456ms, speed=197315, depth=9-21, Evaluation=-122
+5014639ms
+(87) 4648809ms
+(88) MESSAGE Expected time=25590ms
+MESSAGE  1;(12,02)    -118 ----------       17
+MESSAGE  9;(12,02)    -129 ----------    14192
+MESSAGE 10;(12,02)    -133 ----------    46047
+MESSAGE Nodes=8850124, Time=46047ms, speed=192197, depth=10-23, Evaluation=-133
+5063346ms
+(89) 4688986ms
+(90) MESSAGE Expected time=22343ms
+MESSAGE  1;(11,04)    -126 ----------       65
+MESSAGE  2;(11,04)    -126 ----------       65
+MESSAGE  3;(11,04)    -118 ----------       67
+MESSAGE  4;(11,04)    -117 ----------       84
+MESSAGE  5;(11,04)    -124 ----------      117
+MESSAGE  6;(11,04)    -118 ----------      175
+MESSAGE  7;(11,04)    -120 ----------      442
+MESSAGE  8;(11,04)    -118 ----------     5996
+MESSAGE  9;(11,04)    -118 ----------    22344
+MESSAGE Nodes=4344493, Time=22344ms, speed=194436, depth=8-17, Evaluation=-118
+5093334ms
+(91) 4727209ms
+(92) MESSAGE Expected time=20344ms
+MESSAGE  1;(13,04)    -117 ----------       33
+MESSAGE  2;(13,04)    -117 ----------       33
+MESSAGE  3;(13,04)    -113 ----------       36
+MESSAGE  4;(13,04)    -113 ----------       43
+MESSAGE  5;(13,04)    -113 ----------       73
+MESSAGE  6;(13,04)    -118 ----------      322
+MESSAGE  7;(13,04)    -118 ----------     1047
+MESSAGE  8;(13,04)    -117 ----------    11701
+MESSAGE Nodes=2265971, Time=11701ms, speed=193656, depth=8-18, Evaluation=-117
+5107902ms
+(93) 4764230ms
+(94) MESSAGE Expected time=19373ms
+MESSAGE  1;(00,08)     -87 ----------        9
+MESSAGE  2;(02,12)     -96 ----------       10
+MESSAGE  3;(02,12)     -96 ----------       12
+MESSAGE  4;(10,06)    -107 ----------       83
+MESSAGE  5;(10,06)    -104 ----------      133
+MESSAGE  6;(10,06)    -105 ----------      445
+MESSAGE  7;(10,06)    -104 ----------     1341
+MESSAGE  8;(10,06)    -103 ----------     4804
+MESSAGE  9;(10,06)    -103 ----------    19374
+MESSAGE Nodes=3754575, Time=19374ms, speed=193794, depth=8-19, Evaluation=-103
+5130267ms
+(95) 4779016ms
+(96) MESSAGE Expected time=17882ms
+MESSAGE  1;(10,02)    -110 ----------      132
+MESSAGE  2;(10,02)    -110 ----------      133
+MESSAGE  3;(12,04)    -101 ----------      138
+MESSAGE  4;(12,04)    -101 ----------      146
+MESSAGE  5;(12,04)    -102 ----------      195
+MESSAGE  6;(12,04)    -102 ----------      432
+MESSAGE  7;(12,04)    -103 ----------     2362
+MESSAGE  8;(12,04)    -103 ----------     7945
+MESSAGE Nodes=1472258, Time=7945ms, speed=185306, depth=8-21, Evaluation=-103
+5141115ms
+(97) 4795631ms
+(98) MESSAGE Expected time=17159ms
+MESSAGE  1;(10,05)     -82 ----------       17
+MESSAGE  2;(10,05)     -96 ----------       17
+MESSAGE  3;(10,05)     -92 ----------       20
+MESSAGE  4;(10,05)     -94 ----------       34
+MESSAGE  5;(10,05)     -91 ----------       96
+MESSAGE  6;(10,05)     -90 ----------      323
+MESSAGE  7;(10,05)     -97 ----------     1653
+MESSAGE  8;(10,05)     -95 ----------     3947
+MESSAGE  9;(10,05)     -94 ----------    10264
+MESSAGE Nodes=2050370, Time=10264ms, speed=199763, depth=9-23, Evaluation=-94
+5155121ms
+(99) 4828449ms
+(100) MESSAGE Expected time=16225ms
+MESSAGE  1;(07,07)     -90 ----------       67
+MESSAGE  2;(07,07)     -90 ----------       68
+MESSAGE  3;(08,06)     -94 ----------       73
+MESSAGE  4;(08,06)     -99 ----------       89
+MESSAGE  5;(08,06)     -98 ----------      113
+MESSAGE  6;(07,07)    -100 ----------     1744
+MESSAGE  7;(07,07)    -100 ----------     3104
+MESSAGE  8;(07,07)    -100 ----------     8076
+MESSAGE Nodes=1632745, Time=8077ms, speed=202147, depth=8-16, Evaluation=-100
+5166407ms
+(101) 4848766ms
+(102) MESSAGE Expected time=15472ms
+MESSAGE  1;(03,05)     -94 ----------       18
+MESSAGE  2;(03,05)     -92 ----------       18
+MESSAGE  3;(03,05)     -91 ----------       21
+MESSAGE  4;(03,05)     -91 ----------       29
+MESSAGE  5;(03,05)    -100 ----------      116
+MESSAGE  6;(03,05)    -101 ----------      274
+MESSAGE  7;(03,05)     -94 ----------      875
+MESSAGE  8;(02,12)    -102 ----------     4114
+MESSAGE  9;(02,12)    -100 ----------     7115
+MESSAGE 10;(02,12)    -100 ----------    33271
+MESSAGE Nodes=6683420, Time=33271ms, speed=200878, depth=9-18, Evaluation=-100
+5202162ms
+(103) 4852645ms
+(104) MESSAGE Expected time=13089ms
+MESSAGE  1;(01,13)     -94 ----------      108
+MESSAGE  9;(01,13)     -94 ----------    13089
+MESSAGE Nodes=2578664, Time=13089ms, speed=197010, depth=8-0, Evaluation=-94
+5218777ms
+(105) 4882806ms
+(106) MESSAGE Expected time=11981ms
+MESSAGE  1;(03,03)     -96 ----------      899
+MESSAGE  2;(03,03)     -96 ----------      900
+MESSAGE  3;(03,03)     -94 ----------      914
+MESSAGE  4;(03,03)     -95 ----------      943
+MESSAGE  5;(03,03)     -96 ----------     1367
+MESSAGE  6;(03,03)     -94 ----------     1839
+MESSAGE  7;(03,03)     -92 ----------     5194
+MESSAGE Nodes=888962, Time=5194ms, speed=171151, depth=7-14, Evaluation=-92
+5226829ms
+(107) 4911638ms
+(108) MESSAGE Expected time=11444ms
+MESSAGE  1;(02,04)     -76 ----------       47
+MESSAGE  2;(02,04)     -76 ----------       47
+MESSAGE  3;(02,04)     -75 ----------       61
+MESSAGE  4;(02,04)     -75 ----------       75
+MESSAGE  5;(02,04)     -76 ----------      274
+MESSAGE  6;(02,04)     -71 ----------      828
+MESSAGE  7;(02,04)     -67 ----------     3508
+MESSAGE  8;(02,04)     -65 ----------    11094
+MESSAGE Nodes=2309214, Time=11094ms, speed=208149, depth=8-19, Evaluation=-65
+5240819ms
+(109) 4938783ms
+(110) MESSAGE Expected time=10512ms
+MESSAGE  1;(14,04)       0 ----------        8
+MESSAGE Nodes=1, Time=8ms, speed=125, depth=1-0, Evaluation=0
+5244466ms
+(111) 4964476ms
+(112) MESSAGE Expected time=10268ms
+MESSAGE  1;(12,05)     -72 ----------     1627
+MESSAGE  2;(12,05)     -72 ----------     1628
+MESSAGE  3;(12,05)     -68 ----------     1630
+MESSAGE  4;(12,05)     -67 ----------     1647
+MESSAGE  5;(12,05)     -64 ----------     2048
+MESSAGE  6;(12,05)     -60 ----------     2855
+MESSAGE  7;(10,07)     -51 ----------     7165
+MESSAGE  8;(10,07)     -49 ----------    11373
+MESSAGE Nodes=2142259, Time=11373ms, speed=188363, depth=8-18, Evaluation=-49
+5259845ms
+(113) 4988824ms
+(114) MESSAGE Expected time=9243ms
+MESSAGE  1;(11,09)     -49 ----------       12
+MESSAGE Nodes=7, Time=12ms, speed=583, depth=6-0, Evaluation=-49
+5263647ms
+(115) 5012189ms
+(116) MESSAGE Expected time=8990ms
+MESSAGE  1;(13,07)     -49 ----------      262
+MESSAGE  6;(13,08)     -48 ----------     1881
+MESSAGE  7;(13,08)     -51 ----------     7091
+MESSAGE Nodes=1403465, Time=7091ms, speed=197922, depth=7-17, Evaluation=-51
+5273434ms
+(117) 5034302ms
+(118) MESSAGE Expected time=8337ms
+MESSAGE  1;(10,14)       0 ----------        6
+MESSAGE Nodes=1, Time=6ms, speed=166, depth=1-0, Evaluation=0
+5277143ms
+(119) 5055495ms
+(120) MESSAGE Expected time=8090ms
+MESSAGE  1;(09,13)     -45 ----------       21
+MESSAGE  2;(09,13)     -45 ----------       21
+MESSAGE  3;(09,13)     -45 ----------       21
+MESSAGE  4;(09,13)     -42 ----------       48
+MESSAGE  5;(09,13)     -40 ----------      185
+MESSAGE  6;(09,13)     -42 ----------     1651
+MESSAGE  7;(07,13)     -40 ----------     6066
+MESSAGE Nodes=1267348, Time=6066ms, speed=208926, depth=7-17, Evaluation=-40
+5286024ms
+(121) 5075485ms
+(122) MESSAGE Expected time=7498ms
+MESSAGE  1;(02,02)     -36 ----------        9
+MESSAGE  6;(02,02)     -39 ----------      315
+MESSAGE  7;(02,02)     -33 ----------     2076
+MESSAGE  8;(02,02)     -36 ----------     7499
+MESSAGE Nodes=1672679, Time=7499ms, speed=223053, depth=7-20, Evaluation=-36
+5296342ms
+(123) 5090788ms
+(124) MESSAGE Expected time=6810ms
+MESSAGE  1;(06,12)     -31 ----------        9
+MESSAGE  7;(06,12)     -36 ----------      412
+MESSAGE  8;(06,12)     -34 ----------     5403
+MESSAGE Nodes=1145380, Time=5403ms, speed=211989, depth=8-19, Evaluation=-34
+5304769ms
+(125) 5108887ms
+(126) MESSAGE Expected time=6248ms
+MESSAGE  1;(07,00)     -33 ----------       11
+MESSAGE  2;(07,00)     -36 ----------       12
+MESSAGE  3;(07,00)     -30 ----------       14
+MESSAGE  4;(07,00)     -30 ----------       24
+MESSAGE  5;(07,00)     -29 ----------       58
+MESSAGE  6;(07,00)     -29 ----------      270
+MESSAGE  7;(04,02)     -30 ----------     3120
+MESSAGE  8;(04,02)     -29 ----------     8260
+MESSAGE Nodes=1789921, Time=8260ms, speed=216697, depth=8-22, Evaluation=-29
+5316414ms
+(127) 5126048ms
+(128) MESSAGE Expected time=5472ms
+MESSAGE  1;(01,02)     -26 ----------        8
+MESSAGE Nodes=7, Time=8ms, speed=875, depth=6-0, Evaluation=-26
+5320170ms
+(129) 5139443ms
+(130) MESSAGE Expected time=5222ms
+MESSAGE  1;(07,00)     -11 ----------       12
+MESSAGE  2;(05,11)     -22 ----------       13
+MESSAGE  3;(05,11)     -24 ----------       19
+MESSAGE  4;(05,11)     -24 ----------       25
+MESSAGE  5;(10,00)     -27 ----------      136
+MESSAGE  6;(12,13)     -29 ----------      766
+MESSAGE  7;(12,13)     -27 ----------     1753
+MESSAGE  8;(12,13)     -24 ----------     3920
+MESSAGE Nodes=865179, Time=3920ms, speed=220708, depth=8-17, Evaluation=-24
+5337051ms
+(131) 5149214ms
+(132) MESSAGE Expected time=4096ms
+MESSAGE  1;(07,00)       0 ----------        7
+MESSAGE  2;(10,00)      -9 ----------        8
+MESSAGE  3;(10,00)      -9 ----------       15
+MESSAGE  4;(10,00)      -9 ----------       32
+MESSAGE  5;(10,00)     -16 ----------      161
+MESSAGE  6;(11,01)     -17 ----------      701
+MESSAGE  7;(04,01)     -15 ----------     3466
+MESSAGE Nodes=743276, Time=3466ms, speed=214447, depth=7-16, Evaluation=-15
+5345260ms
+(133) 5159921ms
+(134) MESSAGE Expected time=3549ms
+MESSAGE  1;(10,00)      -2 ----------        6
+MESSAGE  2;(05,11)      -3 ----------        7
+MESSAGE  3;(00,02)      -6 ----------       14
+MESSAGE  4;(10,00)      -7 ----------       42
+MESSAGE  5;(11,01)     -15 ----------      232
+MESSAGE  6;(03,13)     -18 ----------     1499
+MESSAGE  7;(11,01)     -18 ----------     2748
+MESSAGE Nodes=614721, Time=2748ms, speed=223697, depth=7-16, Evaluation=-18
+5352266ms
+(135) 5172270ms
+(136) MESSAGE Expected time=3082ms
+MESSAGE  1;(03,13)     -10 ----------        2
+MESSAGE Nodes=6, Time=2ms, speed=3000, depth=5-0, Evaluation=-10
+5356053ms
+(137) 5185649ms
+(138) MESSAGE Expected time=2829ms
+MESSAGE  1;(13,07)       0 ----------        2
+MESSAGE Nodes=1, Time=2ms, speed=500, depth=1-0, Evaluation=0
+5359448ms
+(139) 5199404ms
+(140) MESSAGE Expected time=2603ms
+MESSAGE  1;(10,03)       2 ----------        3
+MESSAGE  2;(10,03)       2 ----------        3
+MESSAGE  3;(10,03)     -10 ----------       11
+MESSAGE  4;(10,03)      -6 ----------       24
+MESSAGE  5;(10,03)      -9 ----------       99
+MESSAGE  6;(10,03)      -9 ----------      340
+MESSAGE  7;(10,03)     -11 ----------      943
+MESSAGE Nodes=205736, Time=943ms, speed=218171, depth=7-14, Evaluation=-11
+5367515ms
+(141) 5209238ms
+(142) MESSAGE Expected time=2065ms
+MESSAGE  1;(00,03)      -6 ----------        3
+MESSAGE  6;(00,03)      -9 ----------      575
+MESSAGE  7;(00,03)     -11 ----------     2065
+MESSAGE Nodes=441151, Time=2065ms, speed=213632, depth=6-11, Evaluation=-11
+5372426ms
+(143) 5218322ms
+(144) MESSAGE Expected time=1738ms
+MESSAGE  1;(06,01)       5 ----------        2
+MESSAGE  2;(06,01)       5 ----------        2
+MESSAGE  3;(08,06)      -2 ----------       31
+MESSAGE  4;(05,08)       2 ----------       88
+MESSAGE  5;(05,08)       2 ----------      276
+MESSAGE  6;(05,08)       2 ----------      671
+MESSAGE Nodes=146707, Time=671ms, speed=218639, depth=6-11, Evaluation=2
+5379541ms
+(145) 5230062ms
+(146) MESSAGE Expected time=1263ms
+MESSAGE  1;(06,01)       0 ----------        0
+MESSAGE Nodes=1, Time=0ms, speed=0, depth=1-0, Evaluation=0
+5382921ms
+(147) 5241863ms
+(148) MESSAGE Expected time=1038ms
+MESSAGE  1;(14,02)       3 ----------        1
+MESSAGE  2;(04,06)      14 ----------        1
+MESSAGE  3;(04,06)       5 ----------       19
+MESSAGE  4;(04,06)       5 ----------       48
+MESSAGE  5;(09,06)       9 ----------      360
+MESSAGE  6;(09,06)       5 ----------     1099
+MESSAGE Nodes=245288, Time=1099ms, speed=223191, depth=6-12, Evaluation=5
+5389519ms
+(149) 5252509ms
+(150) MESSAGE Expected time=598ms
+MESSAGE  1;(08,06)       9 ----------        1
+MESSAGE  5;(08,06)       5 ----------      121
+MESSAGE  6;(08,06)       4 ----------      598
+MESSAGE Nodes=137571, Time=599ms, speed=229667, depth=5-9, Evaluation=4
+5394461ms
+(151) 5256327ms
+(152) MESSAGE Expected time=269ms
+MESSAGE  1;(09,14)      11 ----------        0
+MESSAGE  6;(09,14)      11 ----------      270
+MESSAGE Nodes=56048, Time=270ms, speed=207585, depth=5-0, Evaluation=11
+5398795ms
+(153) 5266269ms
+(154) MESSAGE Expected time=-20ms
+MESSAGE  1;(14,02)       8 ----------        0
+MESSAGE  2;(14,02)       8 ----------        0
+MESSAGE  3;(06,14)       5 ----------       13
+MESSAGE  4;(06,14)       5 ----------       28
+MESSAGE Nodes=7158, Time=28ms, speed=255642, depth=4-6, Evaluation=5
+5404535ms
+(155) 5275601ms
+(156) MESSAGE Expected time=-402ms
+MESSAGE  1;(14,02)      20 ----------        1
+MESSAGE Nodes=165, Time=1ms, speed=165000, depth=1-3, Evaluation=20
+5408040ms
+(157) 5287481ms
+(158) MESSAGE Expected time=-636ms
+MESSAGE  1;(14,03)      13 ----------        1
+MESSAGE Nodes=37, Time=1ms, speed=37000, depth=1-2, Evaluation=13
+5411467ms
+(159) 5302173ms
+(160) MESSAGE Expected time=-864ms
+MESSAGE  1;(00,09)       5 ----------        1
+MESSAGE Nodes=172, Time=1ms, speed=172000, depth=1-3, Evaluation=5
+5415129ms
+(161) 5314132ms
+(162) MESSAGE Expected time=-1108ms
+MESSAGE  1;(12,00)       7 ----------        1
+MESSAGE Nodes=170, Time=1ms, speed=170000, depth=1-3, Evaluation=7
+5418369ms
+(163) 5326622ms
+(164) MESSAGE Expected time=-1324ms
+MESSAGE  1;(00,10)       0 ----------        1
+MESSAGE Nodes=70, Time=1ms, speed=70000, depth=1-2, Evaluation=0
+5421639ms
+(165) 5338862ms
+(166) MESSAGE Expected time=-1542ms
+MESSAGE  1;(14,07)       7 ----------        2
+MESSAGE Nodes=40, Time=2ms, speed=20000, depth=1-4, Evaluation=7
+5424972ms
+(167) 5354726ms
+(168) MESSAGE Expected time=-1764ms
+MESSAGE  1;(13,13)       4 ----------        1
+MESSAGE Nodes=56, Time=1ms, speed=56000, depth=1-2, Evaluation=4
+5428524ms
+(169) 5367591ms
+(170) MESSAGE Expected time=-2001ms
+MESSAGE  1;(14,11)       2 ----------        0
+MESSAGE Nodes=65, Time=0ms, speed=0, depth=1-2, Evaluation=2
+5432264ms
+(171) 5382238ms
+(172) MESSAGE Expected time=-2250ms
+MESSAGE  1;(08,10)     -23 ----------        0
+MESSAGE Nodes=44, Time=0ms, speed=0, depth=1-3, Evaluation=-23
+5436018ms
+(173) 5397072ms
+(174) MESSAGE Expected time=-2501ms
+MESSAGE  1;(02,00)       1 ----------        1
+MESSAGE Nodes=49, Time=1ms, speed=49000, depth=1-3, Evaluation=1
+5439774ms
+(175) 5409889ms
+(176) MESSAGE Expected time=-2751ms
+MESSAGE  1;(12,09)   19995 ----------        0
+MESSAGE Nodes=19, Time=0ms, speed=0, depth=1-3, Evaluation=19995
+5443280ms
+(177) 5416035ms
+(178) MESSAGE Expected time=-2985ms
+MESSAGE  1;(06,00)   20001 ----------        0
+MESSAGE Nodes=1, Time=0ms, speed=0, depth=1-0, Evaluation=20001
+5447425ms
+(179) 5423837ms
+(180) MESSAGE Expected time=-3261ms
+MESSAGE  1;(03,14)   19993 ----------        0
+MESSAGE Nodes=2, Time=0ms, speed=0, depth=1-1, Evaluation=19993
+5451102ms
+(181) 5432310ms
+(182) MESSAGE Expected time=-3506ms
+MESSAGE  1;(-1,00)  -20001 ----------        0
+MESSAGE Nodes=1, Time=0ms, speed=0, depth=1-0, Evaluation=-20001
+MESSAGE Er...
+5455279ms
+(183) 5438956ms
+(184) MESSAGE Expected time=-3785ms
+MESSAGE  1;(-1,00)  -20001 ----------        0
+MESSAGE Nodes=1, Time=0ms, speed=0, depth=1-0, Evaluation=-20001
+MESSAGE Er...
+5459269ms
+(185) 5446383ms
+
+--> C:\gomocupswap2\server\result\ExperimentalC\0_0_1_1.psq
+
+
+--> C:\gomocupswap2\server\result\ExperimentalC\0_1_0_2.psq
+
+(1) (2) (3) MESSAGE SlowRenju 5.1.4 is ready.
+MESSAGE SlowRenju 5.1.4 is ready.
+12598ms
+(3-put two stones) (4) (5) 12598ms
+(5-swap) MESSAGE Expected time=359060ms
+MESSAGE  1;(08,04)       4 ----------        2
+MESSAGE  2;(08,04)       4 ----------        2
+MESSAGE  3;(05,06)       1 ----------       20
+MESSAGE  4;(05,06)       0 ----------       37
+MESSAGE  5;(08,04)       0 ----------      163
+MESSAGE  6;(08,04)       0 ----------      277
+MESSAGE  7;(05,06)       0 ----------     1198
+MESSAGE  8;(08,05)      -2 ----------     3327
+MESSAGE  9;(08,04)      -1 ----------    10800
+MESSAGE 10;(08,04)      -3 ----------    22884
+MESSAGE 11;(08,04)      -1 ----------    42563
+MESSAGE 12;(08,04)      -1 ----------   105506
+MESSAGE 13;(08,04)      -1 ----------   316811
+MESSAGE Nodes=55300832, Time=316811ms, speed=174554, depth=13-26, Evaluation=-1
+348587ms
+(6) 546616ms
+(7) MESSAGE Expected time=336660ms
+MESSAGE  1;(07,04)       0 ----------        1
+MESSAGE  2;(07,04)       0 ----------        1
+MESSAGE  3;(08,05)       3 ----------        5
+MESSAGE  4;(08,05)       3 ----------       11
+MESSAGE  5;(08,05)       1 ----------       31
+MESSAGE  6;(08,05)       2 ----------      114
+MESSAGE  7;(08,05)       2 ----------      270
+MESSAGE  8;(08,04)       4 ----------     1556
+MESSAGE  9;(08,04)       5 ----------     4025
+MESSAGE 10;(08,04)       7 ----------     8835
+MESSAGE 11;(08,04)       5 ----------    43912
+MESSAGE 12;(08,04)       5 ----------    94361
+MESSAGE 13;(08,04)       4 ----------   333165
+MESSAGE Nodes=56748679, Time=333165ms, speed=170332, depth=13-29, Evaluation=4
+691356ms
+(8) 792150ms
+(9) MESSAGE Expected time=313809ms
+MESSAGE  1;(08,03)       2 ----------        1
+MESSAGE 12;(08,03)       3 ----------   119881
+MESSAGE Nodes=20622434, Time=119882ms, speed=172022, depth=12-27, Evaluation=3
+814283ms
+(10) 987184ms
+(11) MESSAGE Expected time=305614ms
+MESSAGE  1;(07,05)       5 ----------        0
+MESSAGE 11;(07,05)       1 ----------    13702
+MESSAGE 12;(07,05)       6 ----------   155885
+MESSAGE Nodes=26735471, Time=155885ms, speed=171507, depth=12-26, Evaluation=6
+981348ms
+(12) 1212624ms
+(13) MESSAGE Expected time=294476ms
+MESSAGE  1;(05,03)      10 ----------        0
+MESSAGE 11;(05,03)       9 ----------    67419
+MESSAGE 12;(05,03)      10 ----------   294476
+MESSAGE Nodes=50210085, Time=294476ms, speed=170506, depth=11-23, Evaluation=10
+1278758ms
+(14) 1425658ms
+(15) MESSAGE Expected time=274649ms
+MESSAGE  1;(04,04)       5 ----------        0
+MESSAGE  2;(08,01)      12 ----------        2
+MESSAGE  3;(05,02)      12 ----------        7
+MESSAGE  4;(05,02)      13 ----------       21
+MESSAGE  5;(06,01)      14 ----------      124
+MESSAGE  6;(06,01)      20 ----------      368
+MESSAGE  7;(06,01)      26 ----------     1127
+MESSAGE  8;(04,04)      15 ----------     4006
+MESSAGE  9;(05,02)      17 ----------    11184
+MESSAGE 10;(04,04)      18 ----------    27357
+MESSAGE 11;(06,01)   19963 ----------    77851
+MESSAGE Nodes=14276616, Time=77851ms, speed=183383, depth=11-24, Evaluation=19963
+1362466ms
+(16) 1428414ms
+(17) MESSAGE Expected time=269068ms
+MESSAGE  1;(05,02)      21 ----------        1
+MESSAGE  2;(05,01)      26 ----------        1
+MESSAGE  3;(05,01)      18 ----------        2
+MESSAGE  4;(05,01)      29 ----------        8
+MESSAGE  5;(05,01)      41 ----------       23
+MESSAGE  6;(05,01)   19968 ----------       26
+MESSAGE Nodes=8375, Time=26ms, speed=322115, depth=6-11, Evaluation=19968
+1370331ms
+(18) 1430982ms
+(19) MESSAGE Expected time=268544ms
+MESSAGE  1;(05,02)   19974 ----------        5
+MESSAGE Nodes=1, Time=5ms, speed=200, depth=1-0, Evaluation=19974
+1374179ms
+(20) 1434550ms
+(21) MESSAGE Expected time=268288ms
+MESSAGE  1;(04,07)   19974 ----------        0
+MESSAGE Nodes=1, Time=0ms, speed=0, depth=1-0, Evaluation=19974
+1378761ms
+(22) 1437695ms
+(23) MESSAGE Expected time=267982ms
+MESSAGE  1;(04,02)   19979 ----------        2
+MESSAGE Nodes=1, Time=2ms, speed=500, depth=1-0, Evaluation=19979
+1383016ms
+(24) 1441185ms
+(25) MESSAGE Expected time=267698ms
+MESSAGE  1;(03,04)   19982 ----------        1
+MESSAGE Nodes=1, Time=1ms, speed=1000, depth=1-0, Evaluation=19982
+1387068ms
+(26) 1449892ms
+(27) MESSAGE Expected time=267428ms
+MESSAGE Here it is!
+1390402ms
+(28) 1453414ms
+(29) MESSAGE Expected time=267206ms
+MESSAGE Here it is!
+1394001ms
+(30) 1456419ms
+(31) MESSAGE Expected time=266966ms
+MESSAGE Here it is!
+1397273ms
+(32) 1459800ms
+(33) MESSAGE Expected time=266748ms
+MESSAGE Here it is!
+1400403ms
+
+--> C:\gomocupswap2\server\result\ExperimentalC\0_1_0_1.psq
+

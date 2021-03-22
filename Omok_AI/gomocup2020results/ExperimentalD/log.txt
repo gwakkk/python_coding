@@ -1,0 +1,12 @@
+[2020-04-25 23:57:11] Server started.
+[2020-04-25 23:57:46] Client 127.0.0.1:49918 connected.
+[2020-04-25 23:57:46] Game (0, 1, 0) started on Client 127.0.0.1:49918.
+[2020-04-26 00:21:16] Client 127.0.0.1:49926 connected.
+[2020-04-26 00:21:16] Game (1, 0, 0) started on Client 127.0.0.1:49926.
+[2020-04-26 00:24:26] Client 127.0.0.1:49926 disconnected.
+[2020-04-26 00:24:26] Game (1, 0, 0) failed on Client 127.0.0.1:49926.
+[2020-04-26 01:45:28] Game (0, 1, 0) finished on Client 127.0.0.1:49918.
+[2020-04-26 01:45:28] Game (1, 0, 0) started on Client 127.0.0.1:49918.
+[2020-04-26 04:19:39] Game (1, 0, 0) finished on Client 127.0.0.1:49918.
+[2020-04-26 04:19:39] Client 127.0.0.1:49918 disconnected.
+[2020-04-26 04:19:40] Server ended.

@@ -1,0 +1,3 @@
+                      1#A 0#S
+1#ALPHAGOMOKU.MK20.E      788
+0#SLOWRENJU20.E       211    

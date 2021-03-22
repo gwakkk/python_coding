@@ -1,0 +1,3 @@
+                      0#A 1#K
+0#ALPHAGOMOKU.MK20.E      500
+1#KATAGOMO            500    

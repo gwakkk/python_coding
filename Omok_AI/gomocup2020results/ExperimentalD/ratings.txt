@@ -1,0 +1,3 @@
+Rank Name                   Elo    +    - games score oppo. draws 
+   1 0#ALPHAGOMOKU.MK20.E  1600  153  153     2   50%  1600    0% 
+   2 1#KATAGOMO            1600  153  153     2   50%  1600    0% 

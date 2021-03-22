@@ -1,0 +1,69 @@
+(1) (2) (3) 17099ms
+(3-stay with its color) (4) MESSAGE White winrate = 83.5825%, So engine plays white
+17099ms
+(5) 150993ms
+(6) MESSAGE movenum=6, winrate=83.6222%, draw value=17.7263%, visits = 3321755, timeTaken = 449.437
+987237ms
+(7) 246091ms
+(8) MESSAGE movenum=8, winrate=86.1391%, draw value=12.5678%, visits = 1923436, timeTaken = 197.594
+1188163ms
+(9) 407564ms
+(10) MESSAGE movenum=10, winrate=93.9073%, draw value=5.68861%, visits = 1717870, timeTaken = 183.14
+1375323ms
+(11) 659708ms
+(12) MESSAGE movenum=12, winrate=97.624%, draw value=1.52716%, visits = 2560313, timeTaken = 170.079
+1550484ms
+(13) 749758ms
+(14) MESSAGE movenum=14, winrate=98.2223%, draw value=1.21672%, visits = 5480273, timeTaken = 158.219
+1711175ms
+(15) 834527ms
+(16) MESSAGE movenum=16, winrate=98.7005%, draw value=0.89711%, visits = 6419885, timeTaken = 147.563
+1861898ms
+(17) 838423ms
+(18) MESSAGE movenum=18, winrate=98.8773%, draw value=0.810884%, visits = 9393552, timeTaken = 133.766
+1997902ms
+(19) 1069505ms
+(20) MESSAGE movenum=20, winrate=99.0941%, draw value=0.693183%, visits = 15189773, timeTaken = 106.813
+2107531ms
+(21) 1288681ms
+(22) MESSAGE movenum=22, winrate=99.1944%, draw value=0.623344%, visits = 17202271, timeTaken = 86.813
+2198083ms
+(23) 1496796ms
+(24) MESSAGE movenum=24, winrate=99.2908%, draw value=0.594246%, visits = 5845000, timeTaken = 77.484
+2283508ms
+(25) 1694519ms
+(26) MESSAGE movenum=26, winrate=99.6744%, draw value=0.205739%, visits = 1940286, timeTaken = 67.937
+2357199ms
+(27) 1708367ms
+(28) MESSAGE movenum=28, winrate=99.8953%, draw value=0.0600847%, visits = 2975100, timeTaken = 62.265
+2422063ms
+(29) 1711825ms
+(30) MESSAGE movenum=30, winrate=99.9221%, draw value=0.044768%, visits = 5114096, timeTaken = 57.25
+2481740ms
+(31) 1714643ms
+(32) MESSAGE movenum=32, winrate=99.8888%, draw value=0.0591121%, visits = 4298102, timeTaken = 46.016
+2530556ms
+(33) 1725836ms
+(34) MESSAGE movenum=34, winrate=99.9514%, draw value=0.0217492%, visits = 2536380, timeTaken = 39.5
+2572545ms
+(35) 1728779ms
+(36) MESSAGE movenum=36, winrate=99.9849%, draw value=0.00777854%, visits = 2791697, timeTaken = 38.11
+2612768ms
+(37) 1737128ms
+(38) MESSAGE movenum=38, winrate=99.9858%, draw value=0.00813634%, visits = 1647550, timeTaken = 36.797
+2651913ms
+(39) 1744414ms
+(40) MESSAGE movenum=40, winrate=99.9859%, draw value=0.00712503%, visits = 1490463, timeTaken = 34.281
+2688840ms
+(41) 1751075ms
+(42) MESSAGE movenum=42, winrate=99.9871%, draw value=0.00535847%, visits = 2077988, timeTaken = 32.516
+2723813ms
+(43) 1753767ms
+(44) MESSAGE movenum=44, winrate=100%, draw value=8.26576e-10%, visits = 7021247, timeTaken = 31.453
+2757834ms
+(45) 1756492ms
+(46) MESSAGE movenum=46, winrate=100%, draw value=3.95591e-11%, visits = 9790889, timeTaken = 30.453
+2790652ms
+
+--> C:\gomocupswap2\server\result\ExperimentalB\0_0_1_2.psq
+

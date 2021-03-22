@@ -1,0 +1,10 @@
+1. SLOWRENJU20.E 1660
+    wins: 2+0, losses: 0+0, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 1579s, time/turn: 105287ms, move/game: 15
+
+2. EMBRYO20.E 1540
+    wins: 0+0, losses: 0+2, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 1610s, time/turn: 107323ms, move/game: 15
+

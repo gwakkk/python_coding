@@ -1,0 +1,3 @@
+                      1#E 0#A
+1#EMBRYO20.E              788
+0#ALPHAGOMOKU.MK20.E  211    

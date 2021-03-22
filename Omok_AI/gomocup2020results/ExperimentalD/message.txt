@@ -1,0 +1,296 @@
+(1) (2) (3) MESSAGE Detected following devices : CPU : GenuineIntel : 4 x AVX2 with 32064MB of memory, GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11176MB of memory, GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11178MB of memory
+MESSAGE Using : GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11176MB of memory : GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11178MB of memory
+36052ms
+(3-put two stones) (4) (5) MESSAGE White winrate = 46.3794%, So randomly plays 2 moves
+MESSAGE After these two moves, white winrate = 47.3812%, So engine plays these two moves
+36052ms
+(5-stay with its color) (6) MESSAGE depth 1-60 ev 50.0 n 12740627 n/s 23929 tm 532433 pv Ok9 Xj9 Ol11 Xj10 Oj8 Xi7 Ol10 Xl12 Oi9 Xk12 Ok7 Xl6 Ol7 Xj12 Om12 Xm13 On14 Xm8 Oj11 Xk6 Oj6 Xi5 Og10 Xh10 Og8 Xi8 Oi6 Xj7 Ol5 Xg9 Of8 Xf10 Ol8 Xl9 On10 Xm9 Ok10 Xo10 Oh8 Xe9 Od8 Xe8 Of6 Xe7 Oe10 Xf9 Od9 Xh12 Oi12 Xh13 Oh11 Xi13 Og11 Xi11 Ok13 Xg13 Of14 Xf13 Oj13 Xe13
+MESSAGE depth 1-60 ev 50.0 n 12740627 n/s 23929 tm 532433 pv Ok9 Xj9 Ol11 Xj10 Oj8 Xi7 Ol10 Xl12 Oi9 Xk12 Ok7 Xl6 Ol7 Xj12 Om12 Xm13 On14 Xm8 Oj11 Xk6 Oj6 Xi5 Og10 Xh10 Og8 Xi8 Oi6 Xj7 Ol5 Xg9 Of8 Xf10 Ol8 Xl9 On10 Xm9 Ok10 Xo10 Oh8 Xe9 Od8 Xe8 Of6 Xe7 Oe10 Xf9 Od9 Xh12 Oi12 Xh13 Oh11 Xi13 Og11 Xi11 Ok13 Xg13 Of14 Xf13 Oj13 Xe13
+575147ms
+(7) MESSAGE movenum=7, winrate=52.449%, draw value=58.8208%, visits = 2520121, timeTaken = 198.547
+1242424ms
+(8) MESSAGE depth 1-47 ev 49.9 n 8742908 n/s 37547 tm 232847 pv Ol11 Xj10 Oj8 Xl10 Om9 Xi9 Ol12 Xm8 Oi10 Xg8 Oh8 Xk6 Oi6 Xj7 Ol5 Xg6 Oi8 Xl8 On9 Xk12 Oi5 Xi4 Oj5 Xh5 Of7 Xj3 Ok2 Xk5 Ok4 Xl3 Oe7 Xg7 Og9 Xh4 Og4 Xf10 Oh3 Xd6 Oe9 Xe6 Of6 Xf9 Oe10 Xe8 Od7 Xc7 Ob8
+818260ms
+(9) MESSAGE movenum=9, winrate=50.9183%, draw value=50.3574%, visits = 1759058, timeTaken = 183.437
+1429836ms
+(10) MESSAGE depth 1-32 ev 51.3 n 3592642 n/s 15929 tm 225536 pv Oj10 Xl8 Oi10 Xn9 Ok7 Xk10 Om8 Xi6 Oi8 Xj7 Oh5 Xk5 Oi11 Xi9 Ok12 Xh12 Om9 Xm11 Oj6 Xh9 Of9 Xk4 Oj5 Xj3 Oi3 Xm4 Oh4 Xi5 Om6 Xm7 Oh3 Xa3
+1049263ms
+(11) MESSAGE movenum=11, winrate=45.7876%, draw value=66.7376%, visits = 4715623, timeTaken = 170.156
+1602465ms
+(12) MESSAGE depth 1-47 ev 41.9 n 3248972 n/s 14969 tm 217033 pv Ok12 Xj13 Ol8 Xm7 Ok7 Xk8 Ol7 Xj6 Oj7 Xl9 Oh11 Xh9 Oh8 Xh7 Og6 Xf9 Og8 Xg9 Oi9 Xe7 Of8 Xe8 Og7 Xf6 Oe9 Xh6 Og5 Xg4 Od7 Xe4 Og11 Xh12 Od10 Xc11 Oe11 Xf11 Of12 Xc9 Od8 Xd9 Oe10 Xe13 Of10 Xc7 Oc10 Xb10 Og10
+1268720ms
+(13) MESSAGE movenum=13, winrate=39.359%, draw value=58.0839%, visits = 8521133, timeTaken = 158.25
+1763017ms
+(14) MESSAGE depth 1-51 ev 78.8 n 3564508 n/s 17284 tm 206226 pv Ol8 Xm7 Oi12 Xj12 Oh11 Xj13 Ol10 Xl9 Of11 Xi11 Of9 Xn10 On8 Xf10 Og9 Xg10 Oe10 Xe9 Od11 Xc12 Od9 Xc8 Od8 Xd10 Of7 Xn12 On13 Xg8 Oc10 Xe8 Oe12 Xf13 Oe7 Xf8 Og7 Xd7 Of6 Xg5 Oh10 Xh9 Oe11 Xg11 Ob10 Xc9 Ob9 Xa8 Ob11 Xc11 Ob12 Xb13 Ob8
+1476911ms
+(15) MESSAGE movenum=15, winrate=5.91352%, draw value=6.32695%, visits = 11845237, timeTaken = 147.468
+1912755ms
+(16) MESSAGE depth 1-45 ev 77.3 n 3296899 n/s 16836 tm 195818 pv Oi12 Xj12 Ol10 Xl9 Oh11 Xj13 Of11 Xi11 Of9 Xn10 On8 Xf10 Og9 Xg10 Oe10 Xe9 Od11 Xc12 Od9 Xc8 Od8 Xd10 Of7 Xg8 Oc10 Xe8 Oe7 Xf8 Og7 Xh7 Oe12 Xf13 Of6 Xg5 Oe11 Xg11 Ob10 Xc9 Ob9 Xa8 Ob11 Xc11 Ob12 Xi13 Ob13
+1674696ms
+(17) MESSAGE movenum=17, winrate=5.09124%, draw value=5.89594%, visits = 6709854, timeTaken = 137.656
+2055712ms
+(18) MESSAGE depth 1-45 ev 80.9 n 3247773 n/s 17469 tm 185912 pv Oh11 Xj13 Ol10 Xl9 Of11 Xi11 Of9 Xn10 On8 Xf10 Og9 Xg10 Oe10 Xe9 Od11 Xc12 Od9 Xc8 Od8 Xd10 Of7 Xg8 Oc10 Xe8 Oe7 Xn12 On13 Xf8 Og7 Xh7 Of6 Xg5 Oe12 Xf13 Oe11 Xg11 Ob10 Xc9 Ob9 Xa8 Ob11 Xc11 Ob12 Xi13 Ob13
+1863043ms
+(19) MESSAGE movenum=19, winrate=5.29304%, draw value=6.66686%, visits = 9335206, timeTaken = 128.641
+2186794ms
+(20) MESSAGE depth 1-41 ev 76.9 n 2903203 n/s 16448 tm 176507 pv Ol10 Xl9 Of11 Xi11 Of9 Xn10 On8 Xf10 Og9 Xg10 Oe10 Xe9 Od11 Xc12 Od9 Xc8 Od8 Xd10 Of7 Xg8 Oc10 Xe8 Oe7 Xf8 Og7 Xh7 Of6 Xg5 Oe12 Xf13 Oe11 Xg11 Ob10 Xc9 Ob9 Xa8 Ob11 Xc11 Ob12 Xi13 Ob13
+2041812ms
+(21) MESSAGE movenum=21, winrate=5.34338%, draw value=6.99443%, visits = 11809152, timeTaken = 120.5
+2310173ms
+(22) MESSAGE depth 1-39 ev 77.9 n 2692429 n/s 16074 tm 167502 pv Of11 Xi11 Of9 Xn10 On8 Xf10 Og9 Xg10 Oe10 Xe9 Od11 Xc12 Od9 Xc8 Od8 Xd10 Of7 Xg8 Oc10 Xe8 Oe7 Xf8 Og7 Xh7 Oe12 Xf13 Of6 Xg5 Oe11 Xg11 Ob10 Xc9 Ob9 Xa8 Ob11 Xc11 Ob12 Xb13 Ob8
+2211630ms
+(23) MESSAGE movenum=23, winrate=5.38291%, draw value=7.11204%, visits = 14247366, timeTaken = 113.047
+2425491ms
+(24) MESSAGE depth 1-37 ev 81.6 n 2630538 n/s 16534 tm 159096 pv Of9 Xn10 On8 Xf10 Og9 Xg10 Oe10 Xe9 Od11 Xc12 Od9 Xc8 Od8 Xd10 Of7 Xg8 Oc10 Xe8 Oe7 Xf8 Og7 Xh7 Oe12 Xf13 Of6 Xg5 Oe11 Xg11 Ob10 Xc9 Ob9 Xa8 Ob11 Xc11 Ob12 Xb8 Ob13
+2373072ms
+(25) MESSAGE movenum=25, winrate=5.45938%, draw value=7.40722%, visits = 16187172, timeTaken = 106.235
+2534010ms
+(26) MESSAGE depth 1-35 ev 82.7 n 2557615 n/s 16938 tm 150990 pv On8 Xf10 Og9 Xg10 Oe10 Xe9 Od11 Xc12 Od9 Xc8 Od8 Xd10 Of7 Xg8 Oc10 Xe8 Oe12 Xf13 Oe7 Xf8 Og7 Xh7 Of6 Xg5 Ob10 Xc9 Oe11 Xg11 Ob9 Xa8 Ob11 Xc11 Ob12 Xb8 Ob13
+2526388ms
+(27) MESSAGE movenum=27, winrate=5.37965%, draw value=7.53605%, visits = 18008042, timeTaken = 100
+2638108ms
+(28) MESSAGE depth 1-29 ev 88.9 n 2461143 n/s 17176 tm 143288 pv Og9 Xk13 Ol14 Xl13 Om13 Xm11 Ol12 Xn13 On12 Xi8 Og11 Xg8 Oh8 Xf10 Oe9 Xi9 Oi7 Xh13 Oi13 Xk7 Ol6 Xd9 Oe11 Xd11 Oe8 Xg10 Oe10 Xe7 Oe12
+2672000ms
+(29) MESSAGE movenum=29, winrate=5.40606%, draw value=7.71053%, visits = 19229973, timeTaken = 94.156
+2734862ms
+(30) MESSAGE depth 1-25 ev 94.0 n 2752241 n/s 20224 tm 136082 pv Og11 Xk7 Ol6 Xk13 Ol14 Xi7 Oi8 Xl7 Oj7 Xg10 Of10 Xm6 Ok8 Xn13 On12 Xn7 Oo7 Xl13 Om13 Xm8 Om11 Xo13 Om12 Xm5 Om14
+2810144ms
+(31) MESSAGE movenum=31, winrate=8.04655%, draw value=6.36262%, visits = 977733, timeTaken = 88.86
+2837742ms
+(32) MESSAGE depth 1-23 ev 97.4 n 4228466 n/s 32758 tm 129078 pv Oi8 Xk7 Ol6 Xk13 Ol14 Xh9 Of7 Xf10 Oe8 Xg10 Oe10 Xd11 Od9 Xn13 On12 Xl13 Om13 Xh13 Oi13 Xm11 Oc8 Xl12 Ob7
+2941618ms
+(33) MESSAGE movenum=33, winrate=0.694677%, draw value=0.305697%, visits = 1877159, timeTaken = 83.563
+2924465ms
+(34) MESSAGE depth 1-11 ev 99.8 n 16949005 n/s 138271 tm 122578 pv Of10 Xk13 Ol14 Xk7 Ol6 Xf8 Oe11 Xd11 Oh8 Xd12 Oi7
+3066512ms
+(35) MESSAGE movenum=35, winrate=0.0213061%, draw value=0.012088%, visits = 7591465, timeTaken = 79.015
+3006001ms
+(36) MESSAGE depth 1-5 ev 99.9 n 48741761 n/s 418850 tm 116370 pv Oe11 Xd11 Oh8 Xd12 Oi7
+3185360ms
+(37) MESSAGE movenum=37, winrate=7.71733e-10%, draw value=4.37683e-10%, visits = 13129327, timeTaken = 74.813
+3083473ms
+(38) MESSAGE depth 1-3 ev 99.9 n 66361856 n/s 600742 tm 110466 pv Oh8 Xk13 Od12
+3298099ms
+(39) MESSAGE movenum=39, winrate=1.56053e-10%, draw value=9.01307e-11%, visits = 28479283, timeTaken = 70.922
+3157025ms
+(40) 3299511ms
+
+--> C:\gomocupswap2\server\result\ExperimentalD\0_0_1_2.psq
+
+(1) (2) (3) 14130ms
+(3-put two stones) (4) (5) MESSAGE Detected following devices : CPU : GenuineIntel : 4 x AVX2 with 32064MB of memory, GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11176MB of memory, GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11178MB of memory
+MESSAGE Using : GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11176MB of memory : GPU : GeForce GTX 1080 Ti : 28 x SM 6.1 with 11178MB of memory
+MESSAGE depth 1-61 ev 51.8 n 6558775 n/s 24866 tm 263761 pv Oe8 Xe10 Od10 Xd7 Oe6 Xe5 Of7 Xg8 Og6 Xh5 Od9 Xc10 Of6 Xh6 Od11 Xd8 Of8 Xf5 Og5 Xg9 Og11 Xe9 Oh7 Xc7 Of10 Xf9 Od5 Xb7 Od6 Xc6 Oc4 Xb3 Ob6 Xj7 Oi9 Xi8 Ok8 Xk6 Ol5 Xj6 Ol6 Xe7 Oa7 Xl4 Oj5 Xk5 Oi7 Xk3 Ok4 Xj2 Oi1 Xc9 Oc8 Xl2 Om3 Xh2 Oj4 Xi2 Ok2 Xh3 Od4
+MESSAGE depth 1-39 ev 50.6 n 14141785 n/s 13160 tm 1074554 pv Od9 Xd7 Oe6 Xf6 Og7 Xe9 Oe8 Xf7 Og5 Xg4 Of8 Xg8 Of3 Xe4 Oi5 Xh6 Oj6 Xh4 Oi4 Xj5 Oi7 Xi6 Oh7 Xk7 Ok5 Xl4 Oi10 Xg9 Oj10 Xk10 Oi9 Xi11 Ok11 Xh8 Oj12 Xj11 Oi12 Xh12 Oc7
+14130ms
+(5-stay with its color) (6) MESSAGE White winrate = 51.428%, So engine plays white
+518491ms
+(7) MESSAGE depth 1-53 ev 51.5 n 3146556 n/s 15067 tm 208825 pv Oe8 Xe6 Oc6 Xb5 Of6 Xg7 Oe9 Xe10 Of10 Xd8 Oh7 Xg10 Og9 Xf11 Og12 Xe11 Oe12 Xe4 Og11 Xh12 Of4 Xc4 Oe2 Xe3 Of3 Xf5 Od5 Xh5 Oi5 Xj6 Oi4 Xi3 Oj4 Xk4 Oi8 Xd4 Ob4 Xj9 Of2 Xg4 Oh3 Xg2 Oj8 Xk8 Ol7 Xi7 Ok6 Xj5 Ol9 Xl5 Ol3 Xj2 Ob7
+1307032ms
+(8) MESSAGE movenum=8, winrate=51.2248%, draw value=67.1063%, visits = 2369960, timeTaken = 218.578
+745024ms
+(9) MESSAGE depth 1-47 ev 51.1 n 3060900 n/s 14980 tm 204325 pv Oc6 Xb5 Of6 Xg7 Oe9 Xe10 Of10 Xd8 Oh7 Xg10 Og9 Xf11 Og12 Xe11 Oe12 Xe4 Og11 Xh12 Of4 Xc4 Oe2 Xe3 Of3 Xf5 Od5 Xh5 Oi5 Xj6 Oi4 Xi3 Oj7 Xk6 Ol6 Xk9 Ok8 Xj8 Oi7 Xl7 Ok10 Xi8 Oj10 Xl10 Ol9 Xm10 Om8 Xj11 Ob4
+1513911ms
+(10) MESSAGE movenum=10, winrate=49.7723%, draw value=73.9084%, visits = 5971644, timeTaken = 202.406
+949528ms
+(11) MESSAGE depth 1-37 ev 49.5 n 2881669 n/s 14852 tm 194015 pv Of6 Xg7 Oe9 Xe10 Of10 Xd8 Oh7 Xe4 Oe3 Xg10 Oh9 Xi9 Og11 Xh6 Oj10 Xh11 Oi10 Xk10 Oi5 Xc4 Oj11 Xk12 Of5 Xf7 Od5 Xj12 Oi12 Xk9 Ok11 Xl11 Oj9 Xj8 Oi7 Xm10 On9 Xk7 Oc5
+1710086ms
+(12) MESSAGE movenum=12, winrate=55.5498%, draw value=66.5604%, visits = 2387980, timeTaken = 188.063
+1143080ms
+(13) MESSAGE depth 1-55 ev 51.3 n 2752971 n/s 14952 tm 184110 pv Oe9 Xe10 Of10 Xd8 Oh7 Xg10 Og9 Xf11 Og12 Xe11 Oe12 Xd11 Og11 Xd12 Od10 Xc11 Ob11 Xc12 Ob13 Xd5 Oh12 Xi13 Oc4 Xg8 Of9 Xh9 Of7 Xc10 Oi12 Xf12 Oc9 Xb7 Oc8 Xf4 Oi8 Xe5 Of5 Xg6 Oe3 Xi5 Oh4 Xi3 Oj4 Xi4 Oi6 Xj3 Oh3 Xc5 Oa5 Xh5 Ok2 Xk5 Oj5 Xl3 Oa4
+1896684ms
+(14) MESSAGE movenum=14, winrate=55.2709%, draw value=70.2868%, visits = 7192528, timeTaken = 174.969
+1320287ms
+(15) MESSAGE depth 1-50 ev 56.2 n 2601028 n/s 14871 tm 174905 pv Od5 Xe4 Of10 Xg10 Og9 Xe11 Of4 Xf5 Od6 Xe5 Oe3 Xd4 Od8 Xc7 Oh7 Xi7 Oc8 Xa8 Oi6 Xh9 Oj8 Xj6 Ok8 Xi8 Oj7 Xh5 Ok7 Xk5 Ol4 Xh11 Oh12 Xg11 Of11 Xi10 Og8 Xj5 Ok9 Xk10 Oj10 Xi11 Oi9 Xj11 Ok11 Xi5 Ol5 Xj4 Oh6 Xj3 Oj2 Xa6
+2073750ms
+(16) MESSAGE movenum=16, winrate=55.0225%, draw value=61.6125%, visits = 1444946, timeTaken = 163.203
+1489119ms
+(17) MESSAGE depth 1-47 ev 56.7 n 2495331 n/s 15032 tm 165998 pv Of10 Xg10 Og9 Xe11 Oi7 Xj6 Oe5 Xf4 Od4 Xd6 Oc5 Xc4 Od8 Xc7 Oj8 Xi9 Ok9 Xh6 Oj10 Xl8 Oi5 Xk10 Od3 Xe3 Od2 Xd1 Oe1 Xc3 Oi4 Xi3 Oj5 Xk5 Ol7 Xk6 Oi6 Xi8 Oj7 Xk7 Ok8 Xl9 Ok4 Xh7 Oj9 Xj11 Om6 Xi12 On5
+2242427ms
+(18) MESSAGE movenum=18, winrate=59.8273%, draw value=47.8338%, visits = 1383356, timeTaken = 152.375
+1644748ms
+(19) MESSAGE depth 1-54 ev 56.5 n 2380504 n/s 15114 tm 157493 pv Og9 Xe11 Oe5 Xf5 Oi7 Xd3 Og6 Xj6 Od8 Xc7 Oi9 Xh9 Od4 Xd6 Oj8 Xb4 Oc5 Xh10 Ok9 Xh6 Oh12 Xg11 Oi8 Xi10 Ol8 Xi5 Oj4 Xj10 Ok10 Xf7 Og8 Xh7 Oh8 Xe2 Oc4 Xc2 Ob1 Xf2 Oc3 Xb2 Od2 Xh4 Og3 Xg4 Oh3 Xf4 Oi4 Xf3 Of1 Xh5 Oc8 Xa8 Od1 Xb6
+2402180ms
+(20) MESSAGE movenum=20, winrate=59.5609%, draw value=60.0705%, visits = 5178897, timeTaken = 142.609
+1789721ms
+(21) MESSAGE depth 1-32 ev 48.8 n 2219832 n/s 14849 tm 149489 pv Oe11 Xg11 Oe3 Xc7 Of4 Xg5 Of3 Xf5 Od3 Xg3 Od4 Xd6 Oc12 Xe12 Oc11 Xc13 Od10 Xc9 Oc3 Xb3 Od2 Xd1 Oc2 Xf2 Ob2 Xe5 Oc1 Xb0 Oe2 Xa2 Oc4 Xb4
+2554106ms
+(22) MESSAGE movenum=22, winrate=68.2362%, draw value=44.1007%, visits = 1219374, timeTaken = 133.718
+1928053ms
+(23) MESSAGE depth 1-50 ev 51.1 n 2135628 n/s 15041 tm 141985 pv Og11 Xd8 Oh11 Xi11 Oh9 Xi9 Oh12 Xi13 Od12 Xc13 Oe10 Xe12 Oi10 Xd11 Oj11 Xk12 Oj9 Xj10 Ok11 Xk8 Of13 Xg12 Oh7 Xi8 Oi6 Xf7 Ol8 Xj5 Ol9 Xl10 Ol6 Xl5 Ok5 Xj4 Oj6 Xh6 Oi5 Xk7 Oe3 Xd3 Og4 Xi4 Ok6 Xm6 Oj3 Xf2 Oe2 Xf3 Of4 Xa0
+2698750ms
+(24) MESSAGE movenum=24, winrate=85.2613%, draw value=13.9915%, visits = 960896, timeTaken = 125.516
+2057290ms
+(25) MESSAGE depth 1-51 ev 35.4 n 2055789 n/s 15252 tm 134780 pv Oh9 Xe10 Od12 Xc13 Oi9 Xf9 Oj8 Xh7 Ok7 Xh10 Og8 Xg12 Od8 Xc7 Oc8 Xa8 Oi12 Xi7 Of7 Xi10 Oj9 Xk9 Oj10 Xj7 Oh5 Xh13 Of11 Xh11 Oh14 Xg3 Og4 Xf5 Og6 Xi4 Oi5 Xj6 Ok5 Xj5 Oj4 Xl6 Ok6 Xk4 Oe3 Xl3 Oi6 Xj3 Od4 Xd6 Ol5 Xf2 Oa6
+2836035ms
+(26) MESSAGE movenum=26, winrate=90.6585%, draw value=5.76102%, visits = 982079, timeTaken = 118
+2178279ms
+(27) MESSAGE depth 1-46 ev 46.6 n 1935775 n/s 15137 tm 127876 pv Od12 Xc13 Od11 Xc11 Oi10 Xe12 Oh11 Xf11 Oc8 Xd8 Oj11 Xg8 Ok11 Xi11 Oj8 Xg12 Oi12 Xk10 Ol11 Xe10 Oh13 Xc12 Oc14 Xc9 Oc10 Xh7 Oi7 Xk9 Oj10 Xj9 Oj12 Xg6 Oi8 Xi6 Of9 Xk12 Oi13 Xm9 Ol9 Xf5 Od3 Xg5 Og4 Xj5 Ok4 Xa11
+2966133ms
+(28) MESSAGE movenum=28, winrate=94.9534%, draw value=3.33745%, visits = 938387, timeTaken = 111.125
+2292798ms
+(29) MESSAGE depth 1-41 ev 47.2 n 1852176 n/s 15259 tm 121375 pv Od11 Xc11 Oi10 Xe12 Oh11 Xf11 Oc8 Xd8 Oj11 Xg8 Oc5 Xc4 Ok10 Xk11 Oj10 Xl10 Oj9 Xg12 Oi12 Xd13 Oc14 Xh13 Oe10 Xj8 Oi8 Xl11 Of4 Xl9 Ol8 Xk9 Oi7 Xm9 Oj12 Xj13 Ok12 Xl13 Ol12 Xm12 Om11 Xd3 Oa6
+3089402ms
+(30) MESSAGE movenum=30, winrate=96.9389%, draw value=1.62524%, visits = 1010362, timeTaken = 104.75
+2401036ms
+(31) MESSAGE depth 1-33 ev 45.3 n 1722841 n/s 14959 tm 115168 pv Od10 Xc8 Oe10 Xe12 Od13 Xd14 Oc12 Xb13 Ob11 Xe14 Oj10 Xb10 Oe3 Xd4 Of4 Xf5 Oi7 Xh6 Oi5 Xi6 Og3 Xh4 Oh5 Xj5 Ok4 Xj8 Og8 Xf9 Ok6 Xi12 Og12 Xk8 Oa7
+3207142ms
+(32) MESSAGE movenum=32, winrate=96.8917%, draw value=2.53994%, visits = 2208876, timeTaken = 98.875
+2504399ms
+(33) MESSAGE depth 1-42 ev 48.2 n 1622204 n/s 14832 tm 109370 pv Od13 Xd14 Oe10 Xe12 Oc12 Xb13 Ob11 Xe14 Oj10 Xb10 Oe3 Xd4 Of4 Xg5 Og3 Xf3 Oh5 Xi7 Oi8 Xj4 Oj7 Xj6 Ok5 Xk6 Oh6 Xh7 Of7 Xi4 Ok4 Xj11 Ok10 Xl8 Ok7 Xl10 Ol7 Xm6 Ol6 Xm5 Ol3 Xj5 Oj2 Xa7
+3318756ms
+(34) MESSAGE movenum=34, winrate=96.7614%, draw value=3.08155%, visits = 3450492, timeTaken = 93.407
+2600293ms
+(35) MESSAGE depth 1-46 ev 47.4 n 1536750 n/s 14810 tm 103762 pv Oe10 Xe12 Oc12 Xb13 Oj10 Xb11 Oe3 Xd4 Of4 Xg5 Oi8 Xh7 Oh5 Xi4 Oi6 Xi7 Of7 Xg4 Og8 Xf9 Og3 Xh3 Ok7 Xg2 Oj5 Xi2 Of5 Xf3 Ok8 Xh1 Oi0 Xf1 Oe0 Xj1 Ok0 Xi1 Og1 Xi5 Oi3 Xj4 Oh6 Xk4 Oh4 Xj3 Og0 Xl5
+3424729ms
+(36) MESSAGE movenum=36, winrate=96.6733%, draw value=3.43431%, visits = 4550072, timeTaken = 88.437
+2691375ms
+(37) MESSAGE depth 1-41 ev 48.5 n 1456440 n/s 14792 tm 98459 pv Oc12 Xb13 Oj10 Xb11 Oe3 Xd4 Of4 Xg5 Og3 Xf3 Oi5 Xj6 Og8 Xf9 Oi4 Xi7 Oi3 Xi1 Oi6 Xi2 Oj4 Xi10 Oi8 Xj9 Oh11 Xj8 Oj7 Xl6 Ok7 Xi12 Og12 Xk9 Oh6 Xl9 Om9 Xl10 Om11 Xl7 Ol8 Xk6 Oa7
+3525281ms
+(38) MESSAGE movenum=38, winrate=97.6691%, draw value=2.41416%, visits = 1264627, timeTaken = 83.781
+2779114ms
+(39) 3527129ms
+(40) MESSAGE movenum=40, winrate=96.2094%, draw value=3.73575%, visits = 1065487, timeTaken = 79.437
+2860821ms
+(41) MESSAGE depth 1-36 ev 46.1 n 1388002 n/s 14883 tm 93255 pv Ob11 Xe14 Oi11 Xj11 Ok10 Xj8 Oj12 Xk9 Oi7 Xl8 Oh10 Xk13 Oi8 Xb10 Oj9 Xh7 Oe3 Xd4 Of4 Xf5 Oi5 Xl6 Om7 Xk6 Oj6 Xi6 Oj5 Xh5 Og4 Xh4 Oh6 Xg5 Om5 Xk5 Ok8 Xa7
+3622632ms
+(42) MESSAGE movenum=42, winrate=95.4914%, draw value=4.62939%, visits = 766731, timeTaken = 75.437
+2939044ms
+(43) MESSAGE depth 1-27 ev 40.4 n 1329878 n/s 15017 tm 88552 pv Oi11 Xj11 Ok10 Xi7 Oj12 Xk9 Ok13 Xh10 Oj8 Xh7 Of7 Xi5 Oh6 Xb10 Oi6 Xk7 Oj7 Xj6 Ol8 Xh5 Og5 Xk5 Ol4 Xf5 Od3 Xi4 Oa7
+3713559ms
+(44) MESSAGE movenum=44, winrate=96.9471%, draw value=1.63023%, visits = 714806, timeTaken = 71.703
+3013798ms
+(45) 3715283ms
+(46) MESSAGE movenum=46, winrate=97.4007%, draw value=1.72306%, visits = 1495621, timeTaken = 68.188
+3084538ms
+(47) MESSAGE depth 1-28 ev 39.6 n 1280934 n/s 15276 tm 83850 pv Oj13 Xk10 Oj11 Xi10 Oh10 Xi7 Og8 Xf9 Oh7 Xf14 Oc14 Xl10 Om10 Xl11 Oj8 Xj6 Oi6 Xi5 Oi13 Xj12 Ol13 Xl12 Ok12 Xl8 Ol9 Xk7 Ok13 Xh4
+3801585ms
+(48) MESSAGE movenum=48, winrate=96.9972%, draw value=2.01018%, visits = 905959, timeTaken = 64.938
+3152590ms
+(49) MESSAGE depth 1-38 ev 41.3 n 1211704 n/s 15212 tm 79651 pv Og8 Xf9 Oj11 Xi10 Oh10 Xi7 Oh7 Xl10 Om10 Xl11 Oi8 Xd6 Of4 Xb10 Of5 Xf3 Oj6 Xj5 Oe3 Xh5 Oi5 Xl9 Ol8 Xk7 Oc5 Xg5 Oc3 Xc4 Od4 Xb6 Od2 Xe2 Od3 Xd1 Og4 Xk9 Oj9 Xa11
+3883778ms
+(50) MESSAGE movenum=50, winrate=97.4386%, draw value=1.89073%, visits = 905808, timeTaken = 61.875
+3217392ms
+(51) MESSAGE depth 1-33 ev 34.9 n 1146184 n/s 15192 tm 75445 pv Oj11 Xi10 Oh10 Xf14 Oc14 Xi7 Oh7 Xl10 Om10 Xl11 Oi8 Xl7 Oj12 Xk13 Ok8 Xj7 Oj8 Xj4 Ol8 Xm8 Oj6 Xk6 Oj5 Xk4 Ok7 Xi5 Oh6 Xi4 Oh4 Xi3 Oi6 Xg6 Oa7
+3961455ms
+(52) MESSAGE movenum=52, winrate=97.4959%, draw value=2.30786%, visits = 854209, timeTaken = 59.015
+3279490ms
+(53) 3962850ms
+(54) MESSAGE movenum=54, winrate=97.4026%, draw value=2.61014%, visits = 1551645, timeTaken = 56.297
+3337776ms
+(55) MESSAGE depth 1-27 ev 33.6 n 1092919 n/s 15276 tm 71542 pv Oc14 Xi7 Oh7 Xl10 Om10 Xl11 Oi8 Xl7 Oj12 Xk13 Oj9 Xk7 Of5 Xg6 Oj7 Xk6 Ok8 Xl9 Ol8 Xj8 Ok9 Xm8 Oj5 Xn7 Oo6 Xm7 Ob9
+4036606ms
+(56) MESSAGE movenum=56, winrate=97.4189%, draw value=2.77447%, visits = 954339, timeTaken = 53.828
+3394453ms
+(57) MESSAGE depth 1-31 ev 32.8 n 1033260 n/s 15230 tm 67840 pv Oh7 Xl10 Om10 Xl11 Oj12 Xk13 Oi8 Xd6 Oe5 Xb10 Ok6 Xl5 Oj6 Xj5 Oc5 Xk5 Of5 Xg5 Om5 Xj4 Oh6 Xl6 Om7 Xl4 Ol3 Xi4 Ok4 Xi3 Oh2 Xg6 Oa7
+4106846ms
+(58) MESSAGE movenum=58, winrate=97.4392%, draw value=2.63813%, visits = 1988257, timeTaken = 51.453
+3448193ms
+(59) 4108491ms
+(60) MESSAGE movenum=60, winrate=97.5688%, draw value=2.44081%, visits = 1659684, timeTaken = 49.218
+3499808ms
+(61) MESSAGE depth 1-23 ev 28.8 n 995589 n/s 15498 tm 64238 pv Oi8 Xl7 Oj9 Xk7 Of5 Xg6 Oj12 Xk13 Oj7 Xk6 Ok8 Xl9 Ol8 Xm8 Oj5 Xj8 Oi6 Xk4 Oh5 Xg4 Og5 Xe5 Oi5
+4175230ms
+(62) MESSAGE movenum=62, winrate=97.6426%, draw value=2.46648%, visits = 911262, timeTaken = 47.141
+3549751ms
+(63) MESSAGE depth 1-28 ev 26.2 n 967755 n/s 15881 tm 60936 pv Oj8 Xj6 Ok13 Xj12 Ol13 Xi13 On13 Xm13 Ok8 Xl8 Ol9 Xj7 Oi5 Xj5 Ok5 Xk6 Oi4 Xm6 On11 Xo12 Ol6 Xm7 Ok7 Xm8 On9 Xm5 On10 Xm4
+4238220ms
+(64) MESSAGE movenum=64, winrate=98.2462%, draw value=2.0218%, visits = 542296, timeTaken = 45.14
+3597568ms
+(65) 4239772ms
+(66) MESSAGE movenum=66, winrate=98.37%, draw value=1.90773%, visits = 906162, timeTaken = 42.547
+3642416ms
+(67) MESSAGE depth 1-21 ev 32.0 n 858890 n/s 14876 tm 57735 pv Ol13 Xj12 Ok13 Xm13 Oh13 Xi13 Ok6 Xd3 Oc2 Xj7 Oe5 Xb10 Oi5 Xd6 Oe2 Xk5 Om7 Xf2 Oj6 Xe3 Oa3
+4299995ms
+(68) MESSAGE movenum=68, winrate=98.8396%, draw value=1.47836%, visits = 455499, timeTaken = 40.125
+3685077ms
+(69) MESSAGE depth 1-19 ev 32.2 n 811899 n/s 14861 tm 54632 pv Ok13 Xj12 Ok6 Xj7 Oe5 Xd8 Oi5 Xk4 Oj4 Xd3 Oc2 Xg4 Oh3 Xf4 Od4 Xj3 Oh5 Xh4 Ob10
+4357235ms
+(70) MESSAGE movenum=70, winrate=98.3536%, draw value=1.64415%, visits = 301716, timeTaken = 32.75
+3720379ms
+(71) MESSAGE depth 1-20 ev 30.2 n 769094 n/s 14838 tm 51830 pv Om12 Xm9 Om13 Xn13 Ok7 Xd3 Oc2 Xg4 Oe3 Xi5 Od4 Xd8 Oc5 Xb6 Oe5 Xc3 Oj5 Xi6 Oi4 Xa6
+4411333ms
+(72) MESSAGE movenum=72, winrate=98.8698%, draw value=1.28059%, visits = 305051, timeTaken = 30.609
+3753540ms
+(73) 4412714ms
+(74) MESSAGE movenum=74, winrate=98.8979%, draw value=1.5679%, visits = 485686, timeTaken = 29.532
+3785249ms
+(75) MESSAGE depth 1-21 ev 32.5 n 726142 n/s 14810 tm 49029 pv Ol12 Xm11 Oj5 Xj6 Ok7 Xd3 Oc2 Xi5 Oe5 Xi6 Oh6 Xg4 Oc11 Xa11 Ob12 Xa13 Oc9 Xa7 Oc7 Xd8 Oa5
+4464048ms
+(76) MESSAGE movenum=76, winrate=99.1032%, draw value=1.21696%, visits = 349802, timeTaken = 28.562
+3816489ms
+(77) 4465616ms
+(78) MESSAGE movenum=78, winrate=98.8145%, draw value=1.37653%, visits = 330132, timeTaken = 23.281
+3841837ms
+(79) MESSAGE depth 1-32 ev 29.4 n 698726 n/s 15049 tm 46427 pv Oj5 Xd3 Oc2 Xk7 On13 Xm13 Oj6 Xj7 Om7 Xk6 Ok9 Xg4 Oh3 Xk4 Ok5 Xf4 Oc11 Xa11 Od4 Xh5 Oi6 Xe3 Oe5 Xg5 Oh6 Xg6 Og3 Xi4 Oh4 Xj3 Od8 Xk2
+4514652ms
+(80) MESSAGE movenum=80, winrate=97.5958%, draw value=2.9802%, visits = 321653, timeTaken = 23.047
+3867341ms
+(81) MESSAGE depth 1-20 ev 30.0 n 664033 n/s 15116 tm 43926 pv Ok7 Xk4 Om6 Xg4 Om13 Xn13 Oe5 Xi4 Oh4 Xl4 Ol6 Xj4 Om4 Xi5 Oh6 Xi3 Oi6 Xi2 Oi1 Xh3
+4560813ms
+(82) MESSAGE movenum=82, winrate=96.439%, draw value=3.58333%, visits = 307129, timeTaken = 31.875
+3901846ms
+(83) MESSAGE depth 1-23 ev 33.6 n 614004 n/s 14750 tm 41624 pv Ol4 Xk4 Oj3 Xm6 On13 Xm13 Om5 Xl6 On6 Xk3 Ok6 Xg4 Oh3 Xd3 Oc2 Xb10 Oh5 Xi4 Oh4 Xh6 Oe3 Xc4 Oa6
+4604459ms
+(84) MESSAGE movenum=84, winrate=95.4242%, draw value=3.31105%, visits = 391113, timeTaken = 31.453
+3935977ms
+(85) MESSAGE depth 1-29 ev 28.3 n 597397 n/s 15114 tm 39523 pv Oc2 Xk4 On13 Xm13 Oj3 Xm6 On7 Xc4 Oe2 Xd4 Of4 Xb4 Oa4 Xb6 Oc7 Xd8 Ob3 Xm7 Om5 Xe3 Oe5 Xd6 Oc5 Xn6 Ok9 Xb10 Ol6 Xn4 Oa1
+4646215ms
+(86) MESSAGE movenum=86, winrate=96.7147%, draw value=3.43398%, visits = 342295, timeTaken = 30.297
+3969389ms
+(87) MESSAGE depth 1-22 ev 25.9 n 564077 n/s 15113 tm 37322 pv On13 Xm13 Oj3 Xd6 Oc5 Xe3 Oe5 Xc3 Ob3 Xf4 Of3 Xb10 Og4 Xd2 Oc1 Xe1 Ob4 Xe2 Oe0 Xc4 Oa6 Xf1
+4685860ms
+(88) MESSAGE movenum=88, winrate=97.2179%, draw value=3.51048%, visits = 294789, timeTaken = 29.203
+4001004ms
+(89) MESSAGE depth 1-18 ev 22.9 n 549553 n/s 15514 tm 35421 pv Om6 Xg4 Oe5 Xg3 Od4 Xd8 Oe3 Xc5 Oh4 Xe2 Of1 Xh5 Oi6 Xj3 Oi2 Xi3 Oh3 Xa6
+4723755ms
+(90) MESSAGE movenum=90, winrate=98.37%, draw value=2.42093%, visits = 292987, timeTaken = 28.171
+4031822ms
+(91) 4725417ms
+(92) MESSAGE movenum=92, winrate=98.517%, draw value=2.19306%, visits = 554442, timeTaken = 27.188
+4061670ms
+(93) MESSAGE depth 1-17 ev 14.1 n 540874 n/s 16184 tm 33419 pv Oc11 Xa11 Od8 Xc7 Oc5 Xc3 Of3 Xe2 Oc4 Xe1 Oe0 Xd2 Ob4 Xd1 Oc1 Xg4 Oa3
+4761468ms
+(94) MESSAGE movenum=94, winrate=98.5867%, draw value=2.00473%, visits = 345850, timeTaken = 26.265
+4090534ms
+(95) MESSAGE depth 1-20 ev 10.6 n 533345 n/s 16867 tm 31618 pv Ob12 Xa13 Oc5 Xc3 Oc7 Xd8 Of3 Xe2 Oc4 Xb4 Ob9 Xb10 Oc9 Xa7 Ob3 Xe1 Oe0 Xd2 Of0 Xa5
+4795254ms
+(96) MESSAGE movenum=96, winrate=99.1725%, draw value=1.47991%, visits = 281027, timeTaken = 20.078
+4113304ms
+(97) MESSAGE depth 1-22 ev 8.4 n 511112 n/s 17083 tm 29917 pv Ob4 Xg4 Oh3 Xf4 Od8 Xc7 Oa7 Xc9 Ob9 Xb10 Od4 Xg5 Oh6 Xg3 Og6 Xh4 Oi4 Xf2 Oi5 Xf3 Of1 Xc3
+4827634ms
+(98) MESSAGE movenum=98, winrate=99.1974%, draw value=1.52118%, visits = 377099, timeTaken = 18.594
+4134341ms
+(99) MESSAGE depth 1-20 ev 6.0 n 559258 n/s 19749 tm 28316 pv Oh3 Xf4 Od8 Xc7 Oc9 Xa7 Ob9 Xb10 Od4 Xg5 Oh6 Xg3 Og6 Xh4 Oi4 Xf2 Oi5 Xf3 Of1 Xc3
+4858577ms
+(100) MESSAGE movenum=100, winrate=99.318%, draw value=1.28965%, visits = 467149, timeTaken = 17.672
+4154752ms
+(101) MESSAGE depth 1-14 ev 3.1 n 835899 n/s 31171 tm 26816 pv Od8 Xc7 Oh5 Xh6 Oc9 Xa7 Ob9 Xb10 Ok6 Xf4 Og5 Xd4 Oc4 Xh4
+4887754ms
+(102) MESSAGE movenum=102, winrate=99.4641%, draw value=0.895817%, visits = 222316, timeTaken = 13.89
+4171023ms
+(103) MESSAGE depth 1-12 ev 1.3 n 1013112 n/s 40178 tm 25215 pv Oc9 Xa7 Oh5 Xh6 Ob10 Xb9 Og6 Xf4 Og5 Xd4 Oc4 Xh4
+4915399ms
+(104) MESSAGE movenum=104, winrate=99.5629%, draw value=0.775535%, visits = 259102, timeTaken = 13.407
+4187044ms
+(105) MESSAGE depth 1-8 ev 0.7 n 1278932 n/s 53478 tm 23914 pv Ob10 Xb9 Oh5 Xh6 Of4 Xk6 Og6 Xl6
+4941701ms
+(106) MESSAGE movenum=106, winrate=99.6174%, draw value=0.681903%, visits = 226036, timeTaken = 12.437
+4202315ms
+(107) MESSAGE depth 1-8 ev 0.4 n 1635798 n/s 72335 tm 22613 pv Oh5 Xh6 Ok6 Xf4 Og5 Xd4 Oc4 Xh4
+4966549ms
+(108) MESSAGE movenum=108, winrate=99.849%, draw value=0.266467%, visits = 668437, timeTaken = 11.375
+4216351ms
+(109) MESSAGE depth 1-6 ev 0.0 n 7315841 n/s 343256 tm 21313 pv Od4 Xh6 Og5 Xk6 Oc3 Xl6
+4990101ms
+(110) MESSAGE movenum=110, winrate=99.9825%, draw value=0.0316944%, visits = 792533, timeTaken = 10.609
+4229122ms
+(111) 4991607ms
+(112) MESSAGE movenum=112, winrate=100%, draw value=1.3673e-09%, visits = 2683435, timeTaken = 10.109
+4241597ms
+(113) 4993034ms
+(114) MESSAGE movenum=114, winrate=100%, draw value=7.40259e-11%, visits = 3401343, timeTaken = 8.766
+4252978ms
+
+--> C:\gomocupswap2\server\result\ExperimentalD\0_1_0_2.psq
+

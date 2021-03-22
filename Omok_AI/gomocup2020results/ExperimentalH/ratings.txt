@@ -1,0 +1,3 @@
+Rank Name           Elo    +    - games score oppo. draws 
+   1 1#EMBRYO20.E  1660  191  141     2  100%  1540    0% 
+   2 0#XOXO20.E    1540  141  191     2    0%  1660    0% 

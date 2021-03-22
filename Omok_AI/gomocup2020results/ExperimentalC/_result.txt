@@ -1,0 +1,10 @@
+1. SLOWRENJU20.E 1625
+    wins: 1+0, losses: 0+0, draws: 0+1
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 3430s, time/turn: 62933ms, move/game: 55
+
+2. XOXO20.E 1575
+    wins: 0+0, losses: 0+1, draws: 1+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 3453s, time/turn: 63359ms, move/game: 55
+

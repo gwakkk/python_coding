@@ -1,0 +1,10 @@
+1. ALPHAGOMOKU.MK20.E 1600
+    wins: 0+1, losses: 1+0, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 3705s, time/turn: 96234ms, move/game: 39
+
+2. KATAGOMO 1600
+    wins: 0+1, losses: 1+0, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 4146s, time/turn: 107695ms, move/game: 39
+

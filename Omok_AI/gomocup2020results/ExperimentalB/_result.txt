@@ -1,0 +1,10 @@
+1. KATAGOMO 1660
+    wins: 1+1, losses: 0+0, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 1395s, time/turn: 121333ms, move/game: 12
+
+2. XOXO20.E 1540
+    wins: 0+0, losses: 1+1, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 878s, time/turn: 76369ms, move/game: 12
+

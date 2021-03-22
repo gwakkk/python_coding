@@ -1,0 +1,3 @@
+Rank Name              Elo    +    - games score oppo. draws 
+   1 1#SLOWRENJU20.E  1625  150  134     2   75%  1575   50% 
+   2 0#XOXO20.E       1575  134  150     2   25%  1625   50% 

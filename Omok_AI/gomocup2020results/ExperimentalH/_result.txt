@@ -1,0 +1,10 @@
+1. EMBRYO20.E 1660
+    wins: 0+2, losses: 0+0, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 3059s, time/turn: 86155ms, move/game: 36
+
+2. XOXO20.E 1540
+    wins: 0+0, losses: 2+0, draws: 0+0
+    timeouts: 0, errors: 0, total games: 2
+    time/game: 3011s, time/turn: 84815ms, move/game: 36
+

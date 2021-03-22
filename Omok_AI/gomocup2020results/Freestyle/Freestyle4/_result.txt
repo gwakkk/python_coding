@@ -1,0 +1,65 @@
+1. PUREGM20 2001
+    wins: 132+129, losses: 12+14, draws: 0+1
+    timeouts: 0, errors: 2, total games: 288
+    time/game: 49s, time/turn: 3336ms, move/game: 15
+
+2. PISQ7 1792
+    wins: 108+105, losses: 36+39, draws: 0+0
+    timeouts: 0, errors: 0, total games: 288
+    time/game: 11s, time/turn: 713ms, move/game: 15
+
+3. BENJAMIN 1781
+    wins: 105+97, losses: 38+47, draws: 1+0
+    timeouts: 0, errors: 15, total games: 288
+    time/game: 29s, time/turn: 740ms, move/game: 39
+
+4. LIGHTBLUE 1758
+    wins: 106+97, losses: 38+47, draws: 0+0
+    timeouts: 0, errors: 0, total games: 288
+    time/game: 0s, time/turn: 8ms, move/game: 22
+
+5. VALKYRIE 1661
+    wins: 80+93, losses: 64+51, draws: 0+0
+    timeouts: 0, errors: 0, total games: 288
+    time/game: 3s, time/turn: 217ms, move/game: 13
+
+6. FIVEROW 1623
+    wins: 80+77, losses: 64+67, draws: 0+0
+    timeouts: 0, errors: 3, total games: 288
+    time/game: 4s, time/turn: 302ms, move/game: 12
+
+7. CRUSHER 1613
+    wins: 80+78, losses: 64+66, draws: 0+0
+    timeouts: 0, errors: 1, total games: 288
+    time/game: 19s, time/turn: 957ms, move/game: 20
+
+8. STAHLFAUST 1613
+    wins: 75+78, losses: 69+66, draws: 0+0
+    timeouts: 0, errors: 25, total games: 288
+    time/game: 70s, time/turn: 4789ms, move/game: 15
+
+9. PROLOG 1533
+    wins: 70+63, losses: 74+81, draws: 0+0
+    timeouts: 0, errors: 0, total games: 288
+    time/game: 6s, time/turn: 388ms, move/game: 15
+
+10. AIBB 1354
+    wins: 43+40, losses: 101+104, draws: 0+0
+    timeouts: 0, errors: 0, total games: 288
+    time/game: 13s, time/turn: 1239ms, move/game: 11
+
+11. MUSHROOM 1263
+    wins: 31+28, losses: 113+116, draws: 0+0
+    timeouts: 0, errors: 0, total games: 288
+    time/game: 4s, time/turn: 743ms, move/game: 5
+
+12. WHATATEAM 1209
+    wins: 20+24, losses: 124+120, draws: 0+0
+    timeouts: 0, errors: 0, total games: 288
+    time/game: 0s, time/turn: 9ms, move/game: 14
+
+13. TIANSHU -
+    wins: 11+21, losses: 133+123, draws: 0+0
+    timeouts: 0, errors: 136, total games: 288
+    time/game: 15s, time/turn: 3341ms, move/game: 5
+
