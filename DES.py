@@ -225,3 +225,19 @@ class DES:
             r_text = l_tmp
             
         self.resulttext = l_text + r_text
+
+
+plaintext = "computer"
+print("plainttext = computer")
+name = StrToByte(plaintext)
+print("binary (ascii) ::",name)
+obj = DES(name, key, 16, pc_1, pc_2, shift_n, s_box, p_box)
+print("\n<<activate encryptio>>")
+obj.encryption()
+print("ciphertext ::",obj.resulttext)
+print("ciphertext(str) ::",ByteToStr(obj.resulttext))
+obj2 = DES(obj.resulttext, key, 16, pc_1, pc_2, shift_n, s_box, p_box)
+print("\n\n<<activate decryption to ciphertext>>")
+obj2.decryption()
+print("decryption result ::", obj2.resulttext)
+print("decryption result(str) ::", ByteToStr(obj2.resulttext))
